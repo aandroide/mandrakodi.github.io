@@ -176,21 +176,21 @@
       "category": ""
     },
     "Sky Arte.it": {
-      "start": "2025-12-27T13:35:00",
-      "stop": "2025-12-27T15:00:00",
-      "start_str": "13:35",
-      "stop_str": "15:00",
-      "title": "Jeff Koons: Un ritratto privato",
-      "desc": "La storia dellartista che e riuscito a elevare il kitsch e il pop per trasformarli in capolavori come pochi artisti visionari nella storia recente.",
+      "start": "2025-12-27T15:00:00",
+      "stop": "2025-12-27T17:30:00",
+      "start_str": "15:00",
+      "stop_str": "17:30",
+      "title": "Steven Van Zandt: Disciple",
+      "desc": "Ripercorriamo la carriera di musicista, attore, attivista e altro ancora di Stevie Van Zandt, il famoso consigliere del New Jersey di Bruce Springsteen e Tony Soprano.",
       "category": ""
     },
     "Sky Atlantic.it": {
-      "start": "2025-12-27T14:20:00",
-      "stop": "2025-12-27T15:10:00",
-      "start_str": "14:20",
-      "stop_str": "15:10",
-      "title": "The Rainmaker",
-      "desc": "S1 Ep8 The Rainmaker Ep.08 - Rudy e Deck pedinano Melvin Pritcher, dando inizio a una catena di eventi mozzafiato.",
+      "start": "2025-12-27T15:10:00",
+      "stop": "2025-12-27T16:00:00",
+      "start_str": "15:10",
+      "stop_str": "16:00",
+      "title": "Amadeus",
+      "desc": "Constanze Mozart fa visita a Salieri, deciso a togliersi la vita. Nel 1781 Wolfgang Amadeus Mozart arriva a Vienna.",
       "category": ""
     },
     "Sky Cinema Action.it": {
@@ -230,12 +230,12 @@
       "category": ""
     },
     "Sky Cinema Family.it": {
-      "start": "2025-12-27T13:10:00",
-      "stop": "2025-12-27T14:55:00",
-      "start_str": "13:10",
-      "stop_str": "14:55",
-      "title": "Harry Potter 20th Anniversary...",
-      "desc": "... Ritorno a Hogwarts. - Per celebrare il 20esimo anniversario del primo film del franchise, una retrospettiva che propone la reunion fra Daniel Radcliffe, Rupert Grint, Emma Watson, i registi e altri membri del cast.",
+      "start": "2025-12-27T14:55:00",
+      "stop": "2025-12-27T17:30:00",
+      "start_str": "14:55",
+      "stop_str": "17:30",
+      "title": "Harry Potter e il principe mezzosangue",
+      "desc": "David Yates dirige la sesta avventura della saga. Un manuale misterioso insegna a Harry Potter i segreti della magia nera, ma per sconfiggere Voldemort avra bisogno di Lumacorno (USA/GBR 2009)",
       "category": ""
     },
     "Sky Cinema Romance.it": {
@@ -248,12 +248,12 @@
       "category": ""
     },
     "Sky Cinema Suspense.it": {
-      "start": "2025-12-27T12:50:00",
-      "stop": "2025-12-27T15:15:00",
-      "start_str": "12:50",
-      "stop_str": "15:15",
-      "title": "Mission: Impossible - Fallout",
-      "desc": "Sesto film della saga action con Tom Cruise diretto da Christopher McQuarrie. Mentre recupera una valigia di plutonio, Ethan Hunt deve smascherare un leader terrorista (USA 2018)",
+      "start": "2025-12-27T15:15:00",
+      "stop": "2025-12-27T18:05:00",
+      "start_str": "15:15",
+      "stop_str": "18:05",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "desc": "... Reckoning. - Ottavo capitolo delladrenalinica saga con Tom Cruise protagonista. Lagente Hunt e la sua squadra devono recuperare lEntita, unintelligenza artificiale che minaccia lumanita (USA 2025)",
       "category": ""
     },
     "Sky Cinema Uno +24.it": {
@@ -275,12 +275,12 @@
       "category": ""
     },
     "Sky Classica.it": {
-      "start": "2025-12-27T14:40:00",
-      "stop": "2025-12-27T15:05:00",
-      "start_str": "14:40",
-      "stop_str": "15:05",
-      "title": "Mestiere Teatro",
-      "desc": "Un viaggio alla scoperta di quanti nei teatri, lontano dalla ribalta, in ufficio, nei laboratori, dietro le quinte, nella buca, lavorano per la riuscita e il successo di uno spettacolo. A cura di Paolo Gavazzeni",
+      "start": "2025-12-27T15:05:00",
+      "stop": "2025-12-27T15:30:00",
+      "start_str": "15:05",
+      "stop_str": "15:30",
+      "title": "Pianisti - LAccademia di Imola, ep.4",
+      "desc": "Chi va, chi viene - quarta puntata della serie Pianisti che svela i dietro le quinte dellAccademia di Imola: attivita, grandi concerti, sfide, tensione e dedizione di allievi e docenti - G.De Stefano, reg.(2015)",
       "category": ""
     },
     "Sky Crime.it": {
@@ -320,10 +320,10 @@
       "category": ""
     },
     "Sky News.it": {
-      "start": "2025-12-27T14:30:00",
-      "stop": "2025-12-27T15:00:00",
-      "start_str": "14:30",
-      "stop_str": "15:00",
+      "start": "2025-12-27T15:00:00",
+      "stop": "2025-12-27T15:30:00",
+      "start_str": "15:00",
+      "stop_str": "15:30",
       "title": "Sky News Today",
       "desc": "Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.",
       "category": ""
@@ -338,30 +338,30 @@
       "category": ""
     },
     "Sky Sport 4K.it": {
-      "start": "2025-12-27T14:45:00",
-      "stop": "2025-12-27T15:00:00",
-      "start_str": "14:45",
-      "stop_str": "15:00",
-      "title": "Calcio Uefa Champions League - Ep. 102 - Calcio Ucl 6ga Atalanta/ Chelsea 09/12/2025",
-      "desc": "UEFA Champions League - Entrambe a quota 10 punti ed entrambe reduci da una vittoria rispettivamente contro Eintracht Francoforte (0-3) e Barcellona (3-0). Nessun precedente. TC: Borghi-Montolivo",
+      "start": "2025-12-27T15:00:00",
+      "stop": "2025-12-27T16:55:00",
+      "start_str": "15:00",
+      "stop_str": "16:55",
+      "title": "Inter - Liverpool",
+      "desc": "UEFA Champions League - Entrambe reduci da un ko rispettivamente contro Atletico Madrid (2-1) e PSV (1-4). Inter con 12 punti, Liverpool 9. Reds in vantaggio 4 a 2 nei 6 precedenti. TC: Zancan-Marchegiani",
       "category": ""
     },
     "Sky Sport Calcio.it": {
-      "start": "2025-12-27T14:45:00",
-      "stop": "2025-12-27T14:55:00",
-      "start_str": "14:45",
-      "stop_str": "14:55",
-      "title": "Programmazione non disponibile",
-      "desc": "Highlights Calcio",
+      "start": "2025-12-27T14:55:00",
+      "stop": "2025-12-27T17:00:00",
+      "start_str": "14:55",
+      "stop_str": "17:00",
+      "title": "Liverpool - Wolverhampton Wanderers",
+      "desc": "Premier League 18ga - DallAnfield di Liverpool, Inghilterra.",
       "category": ""
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T14:00:00",
-      "stop": "2025-12-27T15:00:00",
-      "start_str": "14:00",
-      "stop_str": "15:00",
-      "title": "Gara: GP Spagna",
-      "desc": "Gara: GP Spagna - A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.",
+      "start": "2025-12-27T15:00:00",
+      "stop": "2025-12-27T15:30:00",
+      "start_str": "15:00",
+      "stop_str": "15:30",
+      "title": "Singapore",
+      "desc": "Singapore - Highlights F1 Academy",
       "category": ""
     },
     "Sky Sport Golf.it": {
@@ -374,21 +374,30 @@
       "category": ""
     },
     "Sky Sport Max.it": {
-      "start": "2025-12-27T14:20:00",
-      "stop": "2025-12-27T14:55:00",
-      "start_str": "14:20",
-      "stop_str": "14:55",
-      "title": "Chelsea vs Arsenal - Inside a London derby",
-      "desc": "Chelsea vs Arsenal - Inside a London derby - Un intenso viaggio nellatmosfera di una grande partita. Unesperienza vissuta dietro le quinte, allinterno di uno degli stadi piu iconici dInghilterra, Stamford Bridge.",
+      "start": "2025-12-27T14:55:00",
+      "stop": "2025-12-27T17:00:00",
+      "start_str": "14:55",
+      "stop_str": "17:00",
+      "title": "Brentford - Bournemouth",
+      "desc": "Premier League - Dal Gtech Community Stadium di Brentford, Inghilterra.",
+      "category": ""
+    },
+    "Sky Sport MotoGP.it": {
+      "start": "2025-12-27T14:55:00",
+      "stop": "2025-12-27T16:30:00",
+      "start_str": "14:55",
+      "stop_str": "16:30",
+      "title": "2a giornata",
+      "desc": "2a giornata - Sul tracciato di MotoLive ad Eicma, tornano le gare con le bicilindriche con oltre 15 Case costruttrici al via con le regine del mercato. Telecronaca Vercellesi -Gualdani",
       "category": ""
     },
     "Sky Sport Uno.it": {
-      "start": "2025-12-27T14:30:00",
-      "stop": "2025-12-27T14:55:00",
-      "start_str": "14:30",
-      "stop_str": "14:55",
-      "title": "Chelsea vs Arsenal - Inside a London derby",
-      "desc": "Chelsea vs Arsenal - Inside a London derby - Un intenso viaggio nellatmosfera di una grande partita. Unesperienza vissuta dietro le quinte, allinterno di uno degli stadi piu iconici dInghilterra, Stamford Bridge.",
+      "start": "2025-12-27T14:55:00",
+      "stop": "2025-12-27T17:00:00",
+      "start_str": "14:55",
+      "stop_str": "17:00",
+      "title": "Arsenal - Brighton",
+      "desc": "Premier League 18ga - Gunners reduci da 2 vittorie (Wolverhampton ed Everton). Brighton con 2 punti in 4 turni. In vantaggio 3 a 2 nelle ultime 7 di Premier a Londra, 2 pareggi. TC: Massimo Marianella",
       "category": ""
     },
     "Sky Sport.it": {
@@ -401,12 +410,12 @@
       "category": ""
     },
     "Sky TG24.it": {
-      "start": "2025-12-27T14:30:00",
-      "stop": "2025-12-27T15:00:00",
-      "start_str": "14:30",
-      "stop_str": "15:00",
-      "title": "Drive Club",
-      "desc": "S6 Ep27 Speciale DRIVE CLUB - La rubrica di Sky TG24 dedicata alla mobilita. Si parla di prove su strada, sostenibilita, con interviste ai manager del mondo dellautomobile e spazio alle supercar che fanno sognare.",
+      "start": "2025-12-27T15:00:00",
+      "stop": "2025-12-27T15:30:00",
+      "start_str": "15:00",
+      "stop_str": "15:30",
+      "title": "TG24 mezzora",
+      "desc": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.",
       "category": ""
     },
     "Sky Uno.it": {
@@ -431,13 +440,13 @@
       "title": "Nessun evento in onda"
     },
     "Sky Arte.it": {
-      "start": "2025-12-27T15:00:00",
-      "start_str": "15:00",
-      "title": "Steven Van Zandt: Disciple"
+      "start": "2025-12-27T17:30:00",
+      "start_str": "17:30",
+      "title": "Arthur Miller - Writer"
     },
     "Sky Atlantic.it": {
-      "start": "2025-12-27T15:10:00",
-      "start_str": "15:10",
+      "start": "2025-12-27T16:00:00",
+      "start_str": "16:00",
       "title": "Amadeus"
     },
     "Sky Cinema Action.it": {
@@ -461,9 +470,9 @@
       "title": "1917"
     },
     "Sky Cinema Family.it": {
-      "start": "2025-12-27T14:55:00",
-      "start_str": "14:55",
-      "title": "Harry Potter e il principe mezzosangue"
+      "start": "2025-12-27T17:30:00",
+      "start_str": "17:30",
+      "title": "Harry Potter e i doni della morte: Parte I"
     },
     "Sky Cinema Romance.it": {
       "start": "2025-12-27T16:15:00",
@@ -471,9 +480,9 @@
       "title": "Mia moglie è un fantasma"
     },
     "Sky Cinema Suspense.it": {
-      "start": "2025-12-27T15:15:00",
-      "start_str": "15:15",
-      "title": "Mission: Impossible - The Final Reckoning"
+      "start": "2025-12-27T18:05:00",
+      "start_str": "18:05",
+      "title": "Mission: Impossible"
     },
     "Sky Cinema Uno +24.it": {
       "start": "2025-12-27T16:15:00",
@@ -486,9 +495,9 @@
       "title": "Anche se è amore non si vede"
     },
     "Sky Classica.it": {
-      "start": "2025-12-27T15:05:00",
-      "start_str": "15:05",
-      "title": "Pianisti - LAccademia di Imola, ep.4"
+      "start": "2025-12-27T15:30:00",
+      "start_str": "15:30",
+      "title": "Almanacco di Bellezza"
     },
     "Sky Crime.it": {
       "start": "2025-12-27T15:40:00",
@@ -511,8 +520,8 @@
       "title": "NCIS"
     },
     "Sky News.it": {
-      "start": "2025-12-27T15:00:00",
-      "start_str": "15:00",
+      "start": "2025-12-27T15:30:00",
+      "start_str": "15:30",
       "title": "Sky News Today"
     },
     "Sky Serie.it": {
@@ -521,19 +530,19 @@
       "title": "Amadeus"
     },
     "Sky Sport 4K.it": {
-      "start": "2025-12-27T15:00:00",
-      "start_str": "15:00",
-      "title": "Inter - Liverpool"
+      "start": "2025-12-27T16:55:00",
+      "start_str": "16:55",
+      "title": "Benfica - Napoli"
     },
     "Sky Sport Calcio.it": {
-      "start": "2025-12-27T14:55:00",
-      "start_str": "14:55",
-      "title": "Liverpool - Wolverhampton Wanderers"
+      "start": "2025-12-27T17:00:00",
+      "start_str": "17:00",
+      "title": "Ep.14"
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T15:00:00",
-      "start_str": "15:00",
-      "title": "Singapore"
+      "start": "2025-12-27T15:30:00",
+      "start_str": "15:30",
+      "title": "Mi presento: Leonardo Fornaroli"
     },
     "Sky Sport Golf.it": {
       "start": "2025-12-27T15:30:00",
@@ -541,14 +550,14 @@
       "title": "US Open"
     },
     "Sky Sport Max.it": {
-      "start": "2025-12-27T14:55:00",
-      "start_str": "14:55",
-      "title": "Brentford - Bournemouth"
+      "start": "2025-12-27T17:00:00",
+      "start_str": "17:00",
+      "title": "Speciale Donnarumma: Gigio And The City"
     },
     "Sky Sport MotoGP.it": {
-      "start": "2025-12-27T14:55:00",
-      "start_str": "14:55",
-      "title": "2a giornata"
+      "start": "2025-12-27T16:30:00",
+      "start_str": "16:30",
+      "title": "Auto E Moto"
     },
     "Sky Sport Tennis.it": {
       "start": "2025-12-27T15:30:00",
@@ -556,9 +565,9 @@
       "title": "Top 50 Colpi 2025"
     },
     "Sky Sport Uno.it": {
-      "start": "2025-12-27T14:55:00",
-      "start_str": "14:55",
-      "title": "Arsenal - Brighton"
+      "start": "2025-12-27T17:00:00",
+      "start_str": "17:00",
+      "title": "Chelsea vs Arsenal - Inside a London derby"
     },
     "Sky Sport.it": {
       "start": "2025-12-27T19:00:00",
@@ -566,8 +575,8 @@
       "title": "Pisa - Juventus"
     },
     "Sky TG24.it": {
-      "start": "2025-12-27T15:00:00",
-      "start_str": "15:00",
+      "start": "2025-12-27T15:30:00",
+      "start_str": "15:30",
       "title": "TG24 mezzora"
     },
     "Sky Uno.it": {
@@ -576,5 +585,5 @@
       "title": "MasterChef Italia"
     }
   },
-  "updated_at": "2025-12-27T14:51:04.969120"
+  "updated_at": "2025-12-27T15:17:38.354340"
 }
