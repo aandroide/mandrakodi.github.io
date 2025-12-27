@@ -1,0 +1,264 @@
+{
+  "SetViewMode": "51",
+  "items": [
+    {
+      "title": "=== LAST MINUTE - LIVE + EPG ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "Aggiornato: 27/12/2025 14:51\\nEPG + Stream automatici"
+    },
+    {
+      "title": "=== SPORT ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "11 canali"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] DAZN 1.it - [COLOR yellow]13:45[/COLOR] Serie A",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19310.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 13:45 - 16:00\n\nSerie A - 17a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\n[B]A seguire (16:00):[/B] Udinese - Lazio"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] DAZN 2.it - [COLOR yellow]14:00[/COLOR] Lecce - Como",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19311.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:00 - 16:00\n\nSerie A - 17a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\n[B]A seguire (16:00):[/B] Nessun evento in onda"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Sport 4K.it - [COLOR yellow]14:45[/COLOR] Calcio Uefa Champions League - Ep. 102 - Calcio Ucl 6ga Atalanta/ Chelsea 09/12/2025",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19403.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:45 - 15:00\n\nUEFA Champions League - Entrambe a quota 10 punti ed entrambe reduci da una vittoria rispettivamente contro Eintracht Francoforte (0-3) e Barcellona (3-0). Nessun precedente. TC: Borghi-Montolivo\n\n[B]A seguire (15:00):[/B] Inter - Liverpool"
+    },
+    {
+      "title": "Sky Sport Calcio.it - [COLOR yellow]14:45[/COLOR] Programmazione non disponibile",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19405.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:45 - 14:55\n\nHighlights Calcio\n\n[B]A seguire (14:55):[/B] Liverpool - Wolverhampton Wanderers\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Sport F1.it - [COLOR yellow]14:00[/COLOR] Gara: GP Spagna",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19406.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:00 - 15:00\n\nGara: GP Spagna - A Barcellona nona gara stagionale: Piastri guida la classifica con 3 punti su Norris e 25 su Verstappen. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\n[B]A seguire (15:00):[/B] Singapore\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Sport Golf.it - [COLOR yellow]12:30[/COLOR] 1a giornata",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19407.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 12:30 - 15:30\n\n1a giornata - Dal Bethpage Black Course di Farmingdale, Stati Uniti.\n\n[B]A seguire (15:30):[/B] US Open\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Sport Max.it - [COLOR yellow]14:20[/COLOR] Chelsea vs Arsenal - Inside a London derby",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19408.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:20 - 14:55\n\nChelsea vs Arsenal - Inside a London derby - Un intenso viaggio nellatmosfera di una grande partita. Unesperienza vissuta dietro le quinte, allinterno di uno degli stadi piu iconici dInghilterra, Stam...\n\n[B]A seguire (14:55):[/B] Brentford - Bournemouth"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Sport Uno.it - [COLOR yellow]14:30[/COLOR] Chelsea vs Arsenal - Inside a London derby",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19410.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:30 - 14:55\n\nChelsea vs Arsenal - Inside a London derby - Un intenso viaggio nellatmosfera di una grande partita. Unesperienza vissuta dietro le quinte, allinterno di uno degli stadi piu iconici dInghilterra, Stam...\n\n[B]A seguire (14:55):[/B] Arsenal - Brighton"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Sport.it - [COLOR yellow]14:30[/COLOR] Burnley - Everton",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19382.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:30 - 18:00\n\nCalcio Premier League 18a giornata. Calcio dinizio ore 16:00.\n\n[B]A seguire (19:00):[/B] Pisa - Juventus"
+    },
+    {
+      "title": "=== CINEMA ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "9 canali"
+    },
+    {
+      "title": "Sky Cinema Action.it - [COLOR yellow]14:00[/COLOR] La rapina perfetta",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19383.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:00 - 15:50\n\nJason Statham nellaction che ricostruisce la storica rapina del 1972 ai danni della Baker Street Bank di Londra le cui dinamiche coinvolsero la mafia, il Governo e la Monarchia (USA/AUS 2008)\n\n[B]A seguire (15:50):[/B] Rampage - Furia animale\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Cinema Comedy.it - [COLOR yellow]14:00[/COLOR] Maschi contro femmine",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19384.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:00 - 15:55\n\nPaola Cortellesi, Fabio De Luigi e Alessandro Preziosi nella commedia sbanca-botteghino di Fausto Brizzi che intreccia storie di crisi sentimentali, tradimenti e ricerca della felicita (ITA 2010)\n\n[B]A seguire (15:55):[/B] Ammore e malavita\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Cinema Drama.it - [COLOR yellow]14:10[/COLOR] Ariaferma",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19385.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:10 - 16:15\n\nToni Servillo e Silvio Orlando nel dramma carcerario di Leonardo Di Costanzo che indaga il delicato rapporto tra secondini e detenuti, premiato con 2 David di Donatello 2022 (ITA 2021)\n\n[B]A seguire (16:15):[/B] Julieta\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Cinema Due.it - [COLOR yellow]14:10[/COLOR] Coda - I segni del cuore",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19387.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:10 - 16:05\n\n3 premi Oscar 2022 al remake di Sian Heder premiato al Sundance. Ruby, unica udente in una famiglia di sordomuti, sogna un futuro nel canto ma non vuole lasciare i suoi cari (USA/FRA 2021)\n\n[B]A seguire (16:05):[/B] 1917"
+    },
+    {
+      "title": "Sky Cinema Family.it - [COLOR yellow]13:10[/COLOR] Harry Potter 20th Anniversary...",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19388.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 13:10 - 14:55\n\n... Ritorno a Hogwarts. - Per celebrare il 20esimo anniversario del primo film del franchise, una retrospettiva che propone la reunion fra Daniel Radcliffe, Rupert Grint, Emma Watson, i registi e altr...\n\n[B]A seguire (14:55):[/B] Harry Potter e il principe mezzosangue\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Cinema Romance.it - [COLOR yellow]14:30[/COLOR] Quel mostro di suocera",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19389.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:30 - 16:15\n\nJennifer Lopez e Jane Fonda in una brillante commedia a tinte rosa. Una ragazza sta per sposare luomo ideale, ma linvadente futura suocera fara di tutto per renderle la vita un inferno (USA 2005)\n\n[B]A seguire (16:15):[/B] Mia moglie è un fantasma\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Cinema Suspense.it - [COLOR yellow]12:50[/COLOR] Mission: Impossible - Fallout",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19390.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 12:50 - 15:15\n\nSesto film della saga action con Tom Cruise diretto da Christopher McQuarrie. Mentre recupera una valigia di plutonio, Ethan Hunt deve smascherare un leader terrorista (USA 2018)\n\n[B]A seguire (15:15):[/B] Mission: Impossible - The Final Reckoning"
+    },
+    {
+      "title": "Sky Cinema Uno +24.it - [COLOR yellow]14:05[/COLOR] Dragon Trainer",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19391.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:05 - 16:15\n\nGrande successo in sala per la versione live-action con Gerard Butler della saga DreamWorks. Il giovane Hiccup sfida secoli di tradizione vichinga stringendo amicizia con un drago (USA 2025)\n\n[B]A seguire (16:15):[/B] Guglielmo Tell\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Cinema Uno.it - [COLOR yellow]14:10[/COLOR] Mickey 17",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19392.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:10 - 16:25\n\nBong Joon-ho (Parasite) dirige Robert Pattinson in un film visionario. 2054: ogni volta che muore, il clone Mickey viene rigenerato, ma con la 17esima ristampa qualcosa va storto (USA/GBR 2025)\n\n[B]A seguire (16:25):[/B] Anche se è amore non si vede\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "=== SERIE TV ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "3 canali"
+    },
+    {
+      "title": "Sky Atlantic.it - [COLOR yellow]14:20[/COLOR] The Rainmaker",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19381.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:20 - 15:10\n\nS1 Ep8 The Rainmaker Ep.08 - Rudy e Deck pedinano Melvin Pritcher, dando inizio a una catena di eventi mozzafiato.\n\n[B]A seguire (15:10):[/B] Amadeus\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Crime.it - [COLOR yellow]14:45[/COLOR] Delitti a circuito chiuso",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19394.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:45 - 15:40\n\nS9 Ep7 Nessun indizio - Le indagini sullomicidio di Joshua Webb sono a un punto morto per mancanza di indizi, ma ecco che entra in scena un misterioso testimone.\n\n[B]A seguire (15:40):[/B] Delitti a circuito chiuso\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Serie.it - [COLOR yellow]14:30[/COLOR] Amadeus",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19402.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:30 - 15:20\n\nConstanze Mozart fa visita a Salieri, deciso a togliersi la vita. Nel 1781 Wolfgang Amadeus Mozart arriva a Vienna.\n\n[B]A seguire (15:20):[/B] Amadeus\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "=== NEWS ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "2 canali"
+    },
+    {
+      "title": "Sky News.it - [COLOR yellow]14:30[/COLOR] Sky News Today",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19400.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:30 - 15:00\n\nBreaking news, developing stories and live events from Sky News correspondents in the UK and around the world.\n\n[B]A seguire (15:00):[/B] Sky News Today\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky TG24.it - [COLOR yellow]14:30[/COLOR] Drive Club",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19411.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:30 - 15:00\n\nS6 Ep27 Speciale DRIVE CLUB - La rubrica di Sky TG24 dedicata alla mobilita. Si parla di prove su strada, sostenibilita, con interviste ai manager del mondo dellautomobile e spazio alle supercar che f...\n\n[B]A seguire (15:00):[/B] TG24 mezzora\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "=== DOCUMENTARI ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "4 canali"
+    },
+    {
+      "title": "Sky Arte.it - [COLOR yellow]13:35[/COLOR] Jeff Koons: Un ritratto privato",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19379.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 13:35 - 15:00\n\nLa storia dellartista che e riuscito a elevare il kitsch e il pop per trasformarli in capolavori come pochi artisti visionari nella storia recente.\n\n[B]A seguire (15:00):[/B] Steven Van Zandt: Disciple\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Classica.it - [COLOR yellow]14:40[/COLOR] Mestiere Teatro",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/4100139.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:40 - 15:05\n\nUn viaggio alla scoperta di quanti nei teatri, lontano dalla ribalta, in ufficio, nei laboratori, dietro le quinte, nella buca, lavorano per la riuscita e il successo di uno spettacolo. A cura di Paol...\n\n[B]A seguire (15:05):[/B] Pianisti - LAccademia di Imola, ep.4\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Documentaries +1.it - [COLOR yellow]14:35[/COLOR] Food Markets. Profumi e sapori a km zero",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/nologo.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:35 - 15:35\n\nS3 Ep2 Helsinki - I mercati alimentari di Helsinki offrono i migliori prodotti provenienti dal territorio finlandese a 360 gradi: dalla Karelia a est, dalla Lapponia a nord e dalle isole a ovest.\n\n[B]A seguire (15:35):[/B] The Rescue: Il salvataggio dei ragazzi\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "Sky Documentaries.it - [COLOR yellow]14:35[/COLOR] The Rescue: Il salvataggio dei ragazzi",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19396.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:35 - 16:25\n\nIl racconto di un salvataggio, la cui notizia ha fatto il giro del mondo. In Thailandia, i 12 membri di una squadra di calcio giovanile e il loro allenatore sono rimasti intrappolati in una caverna pe...\n\n[B]A seguire (16:25):[/B] Earth\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "=== INTRATTENIMENTO ===",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "2 canali"
+    },
+    {
+      "title": "[COLOR lime]▶[/COLOR] Sky Investigation.it - [COLOR yellow]14:30[/COLOR] Law and Order - I due volti della...",
+      "myresolve": "platin@@https://www.platinsport.com/",
+      "thumbnail": "https://images.open-epg.com/19398.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 14:30 - 15:20\n\n... giustizia. S24 Ep4 Il senso della vita - Quando una bomba esplode in un edificio, Shaw e Riley devono determinare chi fosse lobiettivo. Price e Maroun cercano di accusare il sospettato di omicidio...\n\n[B]A seguire (15:20):[/B] NCIS"
+    },
+    {
+      "title": "Sky Uno.it - [COLOR yellow]14:50[/COLOR] MasterChef Italia",
+      "link": "ignoreme",
+      "thumbnail": "https://images.open-epg.com/19413.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "[B]In onda ORA:[/B] 14:50 - 16:15\n\nLa cucina di Masterchef accoglie i venti concorrenti della stagione. Per la prima sfida, gli aspirantichef dovranno affrontare la Golden Mistery Box.\n\n[B]A seguire (16:15):[/B] MasterChef Italia\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+    },
+    {
+      "title": "[COLOR yellow] Statistiche[/COLOR]",
+      "link": "ignoreme",
+      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
+      "fanart": "https://i.imgur.com/7wR0JXI.png",
+      "info": "Totale: 29\\n[COLOR lime]▶ Stream:[/COLOR] 9\\nSolo EPG: 20\\n\\nAggiornato: 14:51"
+    }
+  ]
+}
