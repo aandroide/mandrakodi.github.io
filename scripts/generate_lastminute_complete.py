@@ -36,7 +36,7 @@ STREAM_SOURCES = {
 def parse_epg_xml(xml_file: str):
     """Parse EPG XML"""
     
-    print(f"📖 Parsing {xml_file}...")
+    print(f"Parsing {xml_file}...")
     
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -164,10 +164,11 @@ def categorize_channel(channel_id, channel_name):
 def generate_lastminute_complete(epg_data):
     """Genera JSON MandraKodi"""
     
-    print("\n Generazione Last Minute...")
+    print("\nGenerazione Last Minute...")
     
     mandrakodi = {
         "SetViewMode": "51",
+        "RefreshList": "10800",  # 3 ore in secondi (3*60*60)
         "items": []
     }
     
@@ -301,7 +302,7 @@ def generate_lastminute_complete(epg_data):
     # Footer statistiche
     total = stats['with_stream'] + stats['epg_only']
     mandrakodi['items'].append({
-        "title": "[COLOR yellow] Statistiche[/COLOR]",
+        "title": "[COLOR yellow]Statistiche[/COLOR]",
         "link": "ignoreme",
         "thumbnail": "https://i.imgur.com/7wR0JXI.png",
         "fanart": "https://i.imgur.com/7wR0JXI.png",
@@ -317,13 +318,13 @@ def generate_lastminute_complete(epg_data):
 def main():
     """Main"""
     
-    print("🚀 Last Minute - EPG + Stream")
+    print("Last Minute - EPG + Stream")
     print("   User-Agent: Mozilla Firefox\n")
     
     epg_xml = os.path.join(CACHE_DIR, 'epg_raw.xml')
     
     if not os.path.exists(epg_xml):
-        print("❌ EPG non trovato!")
+        print("EPG non trovato!")
         print("Esegui: python scripts/fetch_openepg.py")
         return
     
@@ -355,8 +356,8 @@ def main():
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(lastminute_json, f, ensure_ascii=False, indent=2)
     
-    print(f"\n📄 Output: {output_file}")
-    print("\n✨ Completato!\n")
+    print(f"\n Output: {output_file}")
+    print("\n Completato!\n")
 
 if __name__ == '__main__':
     main()
