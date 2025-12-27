@@ -1,30 +1,31 @@
 #!/usr/bin/env python3
 """
 Scarica EPG da Open-EPG
-URL: https://www.open-epg.com/generate/56jVbhRGv6.xml
+URL: https://www.open-epg.com/generate/56jVbhRGv6.xml (XML diretto, NON zippato)
 User-Agent: Mozilla Firefox
 """
 
 import os
 import sys
-import gzip
 import requests
 from datetime import datetime
 
-# CONFIGURAZIONE
-OPENEPG_URL = "https://www.open-epg.com/generate/56jVbhRGv6.xml.gz"
+# CONFIGURAZIONE - Il tuo EPG (XML NON compresso!)
+OPENEPG_URL = "https://www.open-epg.com/generate/56jVbhRGv6.xml"
+
 CACHE_DIR = 'cache'
-OUTPUT_FILE = os.path.join(CACHE_DIR, 'epg_raw.xml.gz')
+OUTPUT_FILE = os.path.join(CACHE_DIR, 'epg_raw.xml')
 
 # User-Agent Mozilla Firefox
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0'
 
 def download_epg():
-    """Scarica EPG compresso da Open-EPG"""
+    """Scarica EPG XML da Open-EPG"""
     
-    print(f"Downloading EPG...")
+    print(f" Downloading EPG...")
     print(f"   URL: {OPENEPG_URL}")
-    print(f"   User-Agent: Mozilla Firefox\n")
+    print(f"   User-Agent: Mozilla Firefox")
+    print(f"   Format: XML (non-compressed)\n")
     
     try:
         # Headers browser reale
@@ -40,7 +41,7 @@ def download_epg():
         response = requests.get(OPENEPG_URL, headers=headers, timeout=30)
         response.raise_for_status()
         
-        # Salva file compresso
+        # Salva XML diretto
         os.makedirs(CACHE_DIR, exist_ok=True)
         
         with open(OUTPUT_FILE, 'wb') as f:
@@ -48,24 +49,21 @@ def download_epg():
         
         # Verifica dimensione
         size_mb = os.path.getsize(OUTPUT_FILE) / (1024 * 1024)
-        print(f"Downloaded: {size_mb:.2f} MB")
+        print(f" Downloaded: {size_mb:.2f} MB")
         
-        # Decomprimi
-        with gzip.open(OUTPUT_FILE, 'rb') as f_in:
-            xml_content = f_in.read()
-            
-            xml_file = OUTPUT_FILE.replace('.gz', '')
-            with open(xml_file, 'wb') as f_out:
-                f_out.write(xml_content)
+        # Verifica che sia XML valido
+        if response.content.startswith(b'<?xml'):
+            print(f" Valid XML file")
+        else:
+            print(f" Warning: File doesn't start with XML header")
         
-        print(f"Decompressed: {len(xml_content) / (1024*1024):.2f} MB")
         return True
         
     except requests.RequestException as e:
-        print(f"Errore download: {e}")
+        print(f" Errore download: {e}")
         return False
     except Exception as e:
-        print(f"Errore: {e}")
+        print(f" Errore: {e}")
         return False
 
 if __name__ == '__main__':
