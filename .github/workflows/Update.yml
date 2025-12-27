@@ -38,6 +38,8 @@ jobs:
       
       - name: Commit
         if: steps.download.outputs.changed == 'true'
+        env:
+          TZ: Europe/Rome
         run: |
           git config user.name "Last Minute Bot"
           git config user.email "bot@lastminute.com"
