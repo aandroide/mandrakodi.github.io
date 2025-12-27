@@ -1,0 +1,46 @@
+name: Last Minute - Auto Update
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Ogni 3 ore
+  workflow_dispatch:
+
+jobs:
+  update-lastminute:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests lxml
+      
+      - name: Download EPG
+        id: download
+        run: |
+          python scripts/fetch_openepg.py
+          
+          if git diff --quiet cache/epg_raw.xml.gz 2>/dev/null; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Generate JSON
+        if: steps.download.outputs.changed == 'true'
+        run: python scripts/generate_lastminute_complete.py
+      
+      - name: Commit
+        if: steps.download.outputs.changed == 'true'
+        run: |
+          git config user.name "Last Minute Bot"
+          git config user.email "bot@lastminute.com"
+          git add cache/ output/
+          git commit -m " Update $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
