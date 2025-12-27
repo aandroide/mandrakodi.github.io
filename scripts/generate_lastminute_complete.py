@@ -57,7 +57,7 @@ def parse_epg_xml(xml_file: str):
         if icon is not None:
             all_channels[channel_id]['icon'] = icon.get('src')
     
-    print(f"✅ Trovati {len(all_channels)} canali")
+    print(f"Trovati {len(all_channels)} canali")
     
     # Programmi in onda ORA
     now = datetime.now()
@@ -104,7 +104,7 @@ def parse_epg_xml(xml_file: str):
         except Exception:
             continue
     
-    print(f"✅ {len(current_programmes)} canali con programmi in onda ORA")
+    print(f"{len(current_programmes)} canali con programmi in onda ORA")
     
     return {
         'channels': all_channels,
@@ -132,7 +132,7 @@ def search_stream_for_event(event_title, channel_name=""):
     if not is_sport:
         return None
     
-    print(f"🔍 Cercando stream: {event_title}")
+    print(f"Cercando stream: {event_title}")
     
     # Usa platinsport
     if STREAM_SOURCES['platinsport']['enabled']:
@@ -164,7 +164,7 @@ def categorize_channel(channel_id, channel_name):
 def generate_lastminute_complete(epg_data):
     """Genera JSON MandraKodi"""
     
-    print("\n📝 Generazione Last Minute...")
+    print("\n Generazione Last Minute...")
     
     mandrakodi = {
         "SetViewMode": "51",
@@ -301,14 +301,14 @@ def generate_lastminute_complete(epg_data):
     # Footer statistiche
     total = stats['with_stream'] + stats['epg_only']
     mandrakodi['items'].append({
-        "title": "[COLOR yellow]📊 Statistiche[/COLOR]",
+        "title": "[COLOR yellow] Statistiche[/COLOR]",
         "link": "ignoreme",
         "thumbnail": "https://i.imgur.com/7wR0JXI.png",
         "fanart": "https://i.imgur.com/7wR0JXI.png",
         "info": f"Totale: {total}\\n[COLOR lime]▶ Stream:[/COLOR] {stats['with_stream']}\\nSolo EPG: {stats['epg_only']}\\n\\nAggiornato: {datetime.now().strftime('%H:%M')}"
     })
     
-    print(f"✅ Generati {len(mandrakodi['items'])} items")
+    print(f"Generati {len(mandrakodi['items'])} items")
     print(f"   - Con stream: {stats['with_stream']}")
     print(f"   - Solo EPG: {stats['epg_only']}")
     
