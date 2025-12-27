@@ -158,12 +158,12 @@
   },
   "current_programmes": {
     "DAZN 1.it": {
-      "start": "2025-12-27T16:00:00",
-      "stop": "2025-12-27T19:57:00",
-      "start_str": "16:00",
-      "stop_str": "19:57",
-      "title": "Udinese - Lazio",
-      "desc": "Serie A - 17a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.",
+      "start": "2025-12-27T20:13:00",
+      "stop": "2025-12-27T21:57:00",
+      "start_str": "20:13",
+      "stop_str": "21:57",
+      "title": "Torino - Atalanta",
+      "desc": "Serie A - 4a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.",
       "category": ""
     },
     "DAZN 2.it": {
@@ -176,263 +176,272 @@
       "category": ""
     },
     "Sky Arte.it": {
-      "start": "2025-12-27T17:30:00",
-      "stop": "2025-12-27T19:10:00",
-      "start_str": "17:30",
-      "stop_str": "19:10",
-      "title": "Arthur Miller - Writer",
-      "desc": "Il ritratto dello scrittore e drammaturgo Arthur Miller - autore tra gli altri di",
+      "start": "2025-12-27T20:50:00",
+      "stop": "2025-12-27T21:30:00",
+      "start_str": "20:50",
+      "stop_str": "21:30",
+      "title": "La nave dei folli - Oltre la ragione",
+      "desc": "S1 Ep4 Madeleine Pelletier - Carlo Lucarelli presenta Madeleine Pelletier, medica in un manicomio e femminista radicale, la cui lotta per i diritti delle donne le costo la liberta.",
       "category": ""
     },
     "Sky Atlantic.it": {
-      "start": "2025-12-27T17:50:00",
-      "stop": "2025-12-27T18:40:00",
-      "start_str": "17:50",
-      "stop_str": "18:40",
-      "title": "The Rainmaker",
-      "desc": "S1 Ep8 The Rainmaker Ep.08 - Rudy e Deck pedinano Melvin Pritcher, dando inizio a una catena di eventi mozzafiato.",
+      "start": "2025-12-27T21:05:00",
+      "stop": "2025-12-27T22:05:00",
+      "start_str": "21:05",
+      "stop_str": "22:05",
+      "title": "Amadeus",
+      "desc": "Salieri continua la sua confessione a Constanze. Nel 1782 i Mozart si sposano e hanno un figlio, ma Amadeus fatica a comporre una messa.",
       "category": ""
     },
     "Sky Cinema Action.it": {
-      "start": "2025-12-27T17:45:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "17:45",
-      "stop_str": "20:00",
-      "title": "Spider-Man: Homecoming",
-      "desc": "Tom Holland interpreta lUomo Ragno nel film con Michael Keaton e Robert Downey Jr. - Reduce dallesperienza con gli Avengers, Spider-Man difende lumanita dagli artigli dellAvvoltoio (USA 2017)",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T22:10:00",
+      "start_str": "20:00",
+      "stop_str": "22:10",
+      "title": "Sherlock Holmes",
+      "desc": "Robert Downey Jr. e Jude Law in una rilettura nel segno del fantastico del celebre detective. Holmes e il fidato Watson devono indagare su una serie di delitti legati alla magia nera (USA/AUS 2009)",
       "category": ""
     },
     "Sky Cinema Comedy.it": {
-      "start": "2025-12-27T18:20:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "18:20",
-      "stop_str": "20:00",
-      "title": "Insospettabili sospetti",
-      "desc": "Colpo grosso in grande stile in una commedia con Morgan Freeman, Michael Caine e Alan Arkin. Tre amici di lunga data scoprono che i loro fondi pensione sono andati in fumo (USA 2017)",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T21:50:00",
+      "start_str": "20:00",
+      "stop_str": "21:50",
+      "title": "E noi come st***zi rimanemmo a guardare",
+      "desc": "Commedia Sky Original di e con Pif, Fabio De Luigi e Ilenia Pastorelli. Licenziato a causa di un algoritmo, Arturo trova lavoro come rider e si consola con Stella, ologramma nato da una app (ITA 2021)",
       "category": ""
     },
     "Sky Cinema Drama.it": {
-      "start": "2025-12-27T18:00:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "18:00",
-      "stop_str": "20:00",
-      "title": "Padri e figlie",
-      "desc": "Intenso dramma familiare di Gabriele Muccino con Russell Crowe e Amanda Seyfried. Katie affronta i traumi di uninfanzia difficile, vissuta con un padre affetto da disturbi psicofisici (ITA/USA 2015)",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T21:40:00",
+      "start_str": "20:00",
+      "stop_str": "21:40",
+      "title": "Vita segreta di Maria Capasso",
+      "desc": "Luisa Ranieri nella storia di una donna che scala il mondo del crimine. Una vedova napoletana in difficolta accetta laiuto di un malavitoso, finendo per diventarne amante e complice (ITA 2019)",
       "category": ""
     },
     "Sky Cinema Due.it": {
-      "start": "2025-12-27T18:10:00",
-      "stop": "2025-12-27T20:15:00",
-      "start_str": "18:10",
-      "stop_str": "20:15",
-      "title": "Conclave",
-      "desc": "Un Oscar e un Golden Globe allacclamato film di Edward Berger ambientato nel mondo della Chiesa con Ralph Fiennes, Stanley Tucci, Sergio Castellitto e Isabella Rossellini (USA/GBR 2024)",
+      "start": "2025-12-27T20:15:00",
+      "stop": "2025-12-27T22:45:00",
+      "start_str": "20:15",
+      "stop_str": "22:45",
+      "title": "Le otto montagne",
+      "desc": "Miglior film ai David di Donatello e Premio della giuria a Cannes per la storia di amicizia tra Pietro (Luca Marinelli) e Bruno (Alessandro Borghi) e il loro legame con la montagna (ITA/FRA 2022)",
       "category": ""
     },
     "Sky Cinema Family.it": {
-      "start": "2025-12-27T17:30:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "17:30",
-      "stop_str": "20:00",
-      "title": "Harry Potter e i doni della morte: Parte I",
-      "desc": "... parte. - Prima parte delladattamento dellultimo romanzo di J.K. Rowling. Insieme a Hermione e Ron, Harry deve trovare e distruggere gli horcrux, oggetti contenenti lanima del Signore Oscuro (USA/GBR 2010)",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T22:10:00",
+      "start_str": "20:00",
+      "stop_str": "22:10",
+      "title": "Harry Potter e i doni della morte: Parte II",
+      "desc": "... Parte II. - Gran finale della saga in un tripudio di effetti speciali. Alla ricerca degli ultimi horcrux, Harry torna a Hogwarts, ma Voldemort ha scoperto la sua missione... (USA/GBR 2011)",
       "category": ""
     },
     "Sky Cinema Romance.it": {
-      "start": "2025-12-27T18:00:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "18:00",
-      "stop_str": "20:00",
-      "title": "Se scappi, ti sposo",
-      "desc": "Julia Roberts e Richard Gere di nuovo insieme nella commedia romantica dal regista di",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T21:55:00",
+      "start_str": "20:00",
+      "stop_str": "21:55",
+      "title": "Un giorno come tanti",
+      "desc": "Jason Reitman dirige Kate Winslet, Josh Brolin e Tobey Maguire in un film dal romanzo di Joyce Maynard. Abbandonata dal marito con un figlio adolescente, Adele accoglie in casa un evaso (USA 2013)",
       "category": ""
     },
     "Sky Cinema Suspense.it": {
-      "start": "2025-12-27T18:05:00",
-      "stop": "2025-12-27T20:00:00",
-      "start_str": "18:05",
-      "stop_str": "20:00",
-      "title": "Mission: Impossible",
-      "desc": "Primo film della pirotecnica saga action con Tom Cruise, diretto da Brian De Palma. Sospettato di essere una spia, lagente segreto Ethan Hunt deve scoprire chi lo vuole incastrare (USA 1996)",
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T22:10:00",
+      "start_str": "20:00",
+      "stop_str": "22:10",
+      "title": "Mission: Impossible 2",
+      "desc": "John Woo dirige Tom Cruise nel secondo capitolo della saga. Con laiuto di unaffascinante ladra, lagente Hunt deve sventare il piano di un ex collega in possesso di un virus mortale (USA 2000)",
       "category": ""
     },
     "Sky Cinema Uno +24.it": {
-      "start": "2025-12-27T16:15:00",
-      "stop": "2025-12-27T18:30:00",
-      "start_str": "16:15",
-      "stop_str": "18:30",
-      "title": "Guglielmo Tell",
-      "desc": "Claes Bang, Connor Swindells e Ben Kingsley nella rilettura in chiave epica della storia sullarciere svizzero, fulcro di una rivoluzione che segnera il destino della sua nazione (ITA/GBR 2024)",
+      "start": "2025-12-27T20:15:00",
+      "stop": "2025-12-27T23:05:00",
+      "start_str": "20:15",
+      "stop_str": "23:05",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "desc": "... Reckoning. - Ottavo capitolo delladrenalinica saga con Tom Cruise protagonista. Lagente Hunt e la sua squadra devono recuperare lEntita, unintelligenza artificiale che minaccia lumanita (USA 2025)",
       "category": ""
     },
     "Sky Cinema Uno.it": {
-      "start": "2025-12-27T18:05:00",
-      "stop": "2025-12-27T20:15:00",
-      "start_str": "18:05",
-      "stop_str": "20:15",
-      "title": "Twisters",
-      "desc": "Il celebre disaster movie ritorna con Daisy Edgar-Jones e Glen Powell. Dopo un fallimento, Kate abbandona le sue ricerche sui tornado, ma un amico la convince a tornare (USA 2024)",
+      "start": "2025-12-27T20:15:00",
+      "stop": "2025-12-27T22:30:00",
+      "start_str": "20:15",
+      "stop_str": "22:30",
+      "title": "The Equalizer - Il vendicatore",
+      "desc": "Denzel Washington in un action ispirato alla serie anni 80",
       "category": ""
     },
     "Sky Classica.it": {
-      "start": "2025-12-27T17:55:00",
-      "stop": "2025-12-27T18:30:00",
-      "start_str": "17:55",
-      "stop_str": "18:30",
-      "title": "SempreVerdi - ep.5",
-      "desc": "Quinta puntata della serie SempreVerdi, intitolata Verdi la religione, in cui il verdiano Giuseppe Martini racconta il rapporto che il compositore nutriva con la fede (2015)",
+      "start": "2025-12-27T20:15:00",
+      "stop": "2025-12-27T21:30:00",
+      "start_str": "20:15",
+      "stop_str": "21:30",
+      "title": "Mascagni - Cavalleria Rusticana",
+      "desc": "Versione cinematografica girata nel 1981 dellopera in unico atto (1892) - con E.Obraztsova, P.Domingo, R.Bruson, F.Barbieri - Orchestra e Coro del Teatro alla Scala - George Pretre, dir. - Franco Zeffirelli, reg.",
       "category": ""
     },
     "Sky Crime.it": {
-      "start": "2025-12-27T18:25:00",
-      "stop": "2025-12-27T19:20:00",
-      "start_str": "18:25",
-      "stop_str": "19:20",
-      "title": "I macellai di Los Angeles",
-      "desc": "S1 Ep1 Lingegnere dal doppio volto - Alla fine degli anni Sessanta la polizia indaga su una serie di omicidi di giovani uomini e autostoppisti.",
+      "start": "2025-12-27T21:05:00",
+      "stop": "2025-12-27T21:55:00",
+      "start_str": "21:05",
+      "stop_str": "21:55",
+      "title": "Uno stadio da incubo",
+      "desc": "S1 Ep6 Giovani vs anziani - La tensione tra tifosi rivali degenera in una rissa. Gli agenti di sicurezza intervengono per riportare la calma.",
       "category": ""
     },
     "Sky Documentaries +1.it": {
-      "start": "2025-12-27T18:25:00",
-      "stop": "2025-12-27T19:20:00",
-      "start_str": "18:25",
-      "stop_str": "19:20",
-      "title": "One Strange Rock: Pianeta Terra",
-      "desc": "S1 Ep7 One Strange Rock: Pianeta Terra Ep.07 - One Strange Rock: Pianeta Terra",
+      "start": "2025-12-27T21:15:00",
+      "stop": "2025-12-27T22:00:00",
+      "start_str": "21:15",
+      "stop_str": "22:00",
+      "title": "Icons: Harry Potter 1^TV",
+      "desc": "S1 Ep5 Icons: Harry Potter - Man mano che la saga cresce, la fama inizia a pesare sugli attori. Con i ragazzi che faticano a crescere e un altro nuovo regista al timone, la magia potrebbe andare perduta.",
       "category": ""
     },
     "Sky Documentaries.it": {
-      "start": "2025-12-27T18:20:00",
-      "stop": "2025-12-27T19:10:00",
-      "start_str": "18:20",
-      "stop_str": "19:10",
-      "title": "One Strange Rock: Pianeta Terra",
-      "desc": "S1 Ep8 One Strange Rock: Pianeta Terra Ep.08 - One Strange Rock: Pianeta Terra",
+      "start": "2025-12-27T21:00:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "21:00",
+      "stop_str": "21:45",
+      "title": "Icons: Harry Potter 1^TV",
+      "desc": "S1 Ep6 Icons: Harry Potter - Mentre la saga giunge alla sua prova finale, con la realizzazione di due film al prezzo di uno, un incidente cambia per sempre la vita di un membro della troupe.",
       "category": ""
     },
     "Sky Investigation.it": {
-      "start": "2025-12-27T17:50:00",
-      "stop": "2025-12-27T18:40:00",
-      "start_str": "17:50",
-      "stop_str": "18:40",
-      "title": "FBI: International",
-      "desc": "S4 Ep5 Un futuro radioso - Un anziano vedovo americano viene adescato su un sito di incontri da una ragazza che lo invita a raggiungerla in Polonia. Appena arrivato a Varsavia, luomo viene rapito. La Fly Team si reca sul posto.",
+      "start": "2025-12-27T20:55:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "20:55",
+      "stop_str": "21:45",
+      "title": "Mistletoe Murders: Delitti... 1^TV",
+      "desc": "... sotto lalbero. S2 Ep2 02 Ep.02 - Guerra Fredda - Parte 2 - Quando il proprietario di un ristorante di lusso viene assassinato, Emily da rifugio a un fuggitivo.",
       "category": ""
     },
     "Sky News.it": {
-      "start": "2025-12-27T18:00:00",
-      "stop": "2025-12-27T18:30:00",
-      "start_str": "18:00",
-      "stop_str": "18:30",
-      "title": "News Hour with Jonathan Samuels",
-      "desc": "A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.",
+      "start": "2025-12-27T21:00:00",
+      "stop": "2025-12-27T21:30:00",
+      "start_str": "21:00",
+      "stop_str": "21:30",
+      "title": "Sky News",
+      "desc": "A comprehensive round-up of all the main news stories of the day from home and abroad.",
       "category": ""
     },
     "Sky Serie.it": {
-      "start": "2025-12-27T17:55:00",
-      "stop": "2025-12-27T18:40:00",
-      "start_str": "17:55",
-      "stop_str": "18:40",
-      "title": "Chicago P.D.",
-      "desc": "S13 Ep4 Causa alla radice - LUnita dIntelligence corre contro il tempo quando un uomo del quartiere di Torres viene rapito.",
+      "start": "2025-12-27T21:15:00",
+      "stop": "2025-12-27T22:20:00",
+      "start_str": "21:15",
+      "stop_str": "22:20",
+      "title": "The White Princess",
+      "desc": "S1 Ep8 Vecchi malefici - Finale di stagione. - Le debolezze di re Enrico vengono alla luce durante lo scontro finale con il pretendente al trono. Lizzie deve affrontare nuovi demoni e antiche maledizioni.",
       "category": ""
     },
     "Sky Sport 4K.it": {
-      "start": "2025-12-27T17:25:00",
-      "stop": "2025-12-27T19:30:00",
-      "start_str": "17:25",
-      "stop_str": "19:30",
-      "title": "Chelsea - Aston Villa",
-      "desc": "Premier League - Dallo Stamford Bridge di Londra, Inghilterra.",
+      "start": "2025-12-27T19:40:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "19:40",
+      "stop_str": "21:45",
+      "title": "Pisa - Juventus",
+      "desc": "Serie A - Toscani penultimi con una sola vittoria, 8 pari e 7 ko. Juve a -1 dalla Champions dopo 2 vittorie: Bologna e Roma. Un solo ko a Pisa nei 9 precedenti. TC: Compagnoni-Marocchi",
       "category": ""
     },
     "Sky Sport Calcio.it": {
-      "start": "2025-12-27T17:25:00",
-      "stop": "2025-12-27T19:30:00",
-      "start_str": "17:25",
-      "stop_str": "19:30",
-      "title": "Chelsea - Aston Villa",
-      "desc": "Premier League 18ga - Dallo Stamford Bridge di Londra, Inghilterra.",
+      "start": "2025-12-27T19:40:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "19:40",
+      "stop_str": "21:45",
+      "title": "Pisa - Juventus",
+      "desc": "Serie A 17ga - Toscani penultimi con una sola vittoria, 8 pari e 7 ko. Juve a -1 dalla Champions dopo 2 vittorie: Bologna e Roma. Un solo ko a Pisa nei 9 precedenti. TC: Compagnoni-Marocchi",
       "category": ""
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T18:10:00",
-      "stop": "2025-12-27T19:15:00",
-      "start_str": "18:10",
-      "stop_str": "19:15",
-      "title": "Race 2: GP Singapore",
-      "desc": "GP Singapore: Gara 2 - Doriane Pin e Maya Weug, in lizza per il titolo, si sfidano nella gara piu importante del weekend, quella che assegna punteggio pieno. Telecronaca di Andrea Sillitti e Vicky Piria.",
-      "category": ""
-    },
-    "Sky Sport Golf.it": {
-      "start": "2025-12-27T15:55:00",
-      "stop": "2025-12-27T19:05:00",
-      "start_str": "15:55",
-      "stop_str": "19:05",
-      "title": "2a giornata",
-      "desc": "2a giornata - Ryder Cup",
-      "category": ""
-    },
-    "Sky Sport Max.it": {
-      "start": "2025-12-27T18:00:00",
-      "stop": "2025-12-27T19:00:00",
-      "start_str": "18:00",
-      "stop_str": "19:00",
+      "start": "2025-12-27T21:00:00",
+      "stop": "2025-12-27T21:55:00",
+      "start_str": "21:00",
+      "stop_str": "21:55",
       "title": "Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
       "desc": "Speciale Natale - Lanalisi del Gran Premio disputato per commentare la gara insieme agli ospiti in studio. Riviviamo i brividi della corsa attraverso le immagini piu spettacolari e ascoltiamo i commenti a caldo dei protagonisti.",
       "category": ""
     },
+    "Sky Sport Golf.it": {
+      "start": "2025-12-27T20:00:00",
+      "stop": "2025-12-27T23:00:00",
+      "start_str": "20:00",
+      "stop_str": "23:00",
+      "title": "3a giornata",
+      "desc": "3a giornata - Dal Bethpage Black Course di Farmingdale, Stati Uniti.",
+      "category": ""
+    },
+    "Sky Sport Max.it": {
+      "start": "2025-12-27T20:45:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "20:45",
+      "stop_str": "21:45",
+      "title": "Sofia Goggia",
+      "desc": "Sofia Goggia - Discese al limite, ritorni semi-impossibili, vittorie indimenticabili. Sofia Goggia si racconta con ironia, nel Talk di Sky Sport, dagli inizi sino alle sfide ancora aperte, verso Milano-Cortina 2026.",
+      "category": ""
+    },
     "Sky Sport MotoGP.it": {
-      "start": "2025-12-27T17:55:00",
-      "stop": "2025-12-27T18:30:00",
-      "start_str": "17:55",
-      "stop_str": "18:30",
-      "title": "Speciale Eicma 2025 - Dietro Le",
-      "desc": "... quinte Di Motolive. Speciale Eicma 2025 - Dietro Le quinte Di Motolive - Motolive e stata il cuore pulsante di Eicma 2025. Eventi, gare, lo spazio dedicato alla Dakar e molto altro da rivedere in questo speciale che ci porta dietro le quinte della manifestazione.",
+      "start": "2025-12-27T20:55:00",
+      "stop": "2025-12-27T22:30:00",
+      "start_str": "20:55",
+      "stop_str": "22:30",
+      "title": "3a giornata",
+      "desc": "3a giornata - La Champions Charity Race mette in sella vere e proprie leggende del motorsport, attraverso lentusiasmante format che prevede duelli ad inseguimento. Telecronaca Vercellesi-Gualdani.",
       "category": ""
     },
     "Sky Sport Tennis.it": {
-      "start": "2025-12-27T16:00:00",
-      "stop": "2025-12-27T19:00:00",
-      "start_str": "16:00",
-      "stop_str": "19:00",
-      "title": "Sinner - Fritz",
-      "desc": "Uomini, Finale: Sinner - Fritz - Jannik Sinner gioca la sua seconda finale in uno Slam sfidando lamericano Taylor Fritz per il titolo degli US Open. Tc: Pero-Pescosolido.",
+      "start": "2025-12-27T21:00:00",
+      "stop": "2025-12-27T22:00:00",
+      "start_str": "21:00",
+      "stop_str": "22:00",
+      "title": "Jannik, oltre il tennis (Capitolo 3)",
+      "desc": "Jannik, oltre il tennis (Capitolo 3) - Un affascinante incontro che per il terzo anno ci regala unimmagine di Jannik Sinner inedita e senza filtri, nel dialogo del numero uno del mondo con il direttore Federico Ferri.",
       "category": ""
     },
     "Sky Sport Uno.it": {
-      "start": "2025-12-27T17:25:00",
-      "stop": "2025-12-27T19:30:00",
-      "start_str": "17:25",
-      "stop_str": "19:30",
-      "title": "Chelsea - Aston Villa",
-      "desc": "Premier League 18ga - Dallo Stamford Bridge di Londra, Inghilterra.",
+      "start": "2025-12-27T19:40:00",
+      "stop": "2025-12-27T21:45:00",
+      "start_str": "19:40",
+      "stop_str": "21:45",
+      "title": "Pisa - Juventus",
+      "desc": "Serie A 17ga - Toscani penultimi con una sola vittoria, 8 pari e 7 ko. Juve a -1 dalla Champions dopo 2 vittorie: Bologna e Roma. Un solo ko a Pisa nei 9 precedenti. TC: Compagnoni-Marocchi",
+      "category": ""
+    },
+    "Sky Sport.it": {
+      "start": "2025-12-27T19:00:00",
+      "stop": "2025-12-27T23:30:00",
+      "start_str": "19:00",
+      "stop_str": "23:30",
+      "title": "Pisa - Juventus",
+      "desc": "Cod. 402460 - Serie A - 17a giornata. Calcio dinizio ore 20:45.",
       "category": ""
     },
     "Sky TG24.it": {
-      "start": "2025-12-27T18:00:00",
-      "stop": "2025-12-27T18:30:00",
-      "start_str": "18:00",
-      "stop_str": "18:30",
+      "start": "2025-12-27T21:10:00",
+      "stop": "2025-12-27T21:30:00",
+      "start_str": "21:10",
+      "stop_str": "21:30",
       "title": "TG24 mezzora",
       "desc": "Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.",
       "category": ""
     },
     "Sky Uno.it": {
-      "start": "2025-12-27T17:40:00",
-      "stop": "2025-12-27T18:50:00",
-      "start_str": "17:40",
-      "stop_str": "18:50",
-      "title": "Alessandro Borghese - 4 Ristoranti",
-      "desc": "S3 Ep4 Trentino - Alessandro Borghese e tra le valli del Trentino, per scoprire il ristorante con il cenone di Natale piu curioso. Chi si aggiudichera la vittoria?",
+      "start": "2025-12-27T20:15:00",
+      "stop": "2025-12-27T21:40:00",
+      "start_str": "20:15",
+      "stop_str": "21:40",
+      "title": "MasterChef Italia",
+      "desc": "La cucina di Masterchef accoglie i venti concorrenti della stagione. Per la prima sfida, gli aspirantichef dovranno affrontare la Golden Mistery Box.",
       "category": ""
     }
   },
   "next_programmes": {
     "DAZN 1.it": {
-      "start": "2025-12-27T20:13:00",
-      "start_str": "20:13",
-      "title": "Torino - Atalanta"
+      "start": "2025-12-27T21:57:00",
+      "start_str": "21:57",
+      "title": "Bostik: La Bodega de D10S"
     },
     "DAZN 2.it": {
       "start": "2025-12-27T23:00:00",
@@ -440,150 +449,150 @@
       "title": "Nessun evento in onda"
     },
     "Sky Arte.it": {
-      "start": "2025-12-27T19:10:00",
-      "start_str": "19:10",
-      "title": "Il sogno bianco"
+      "start": "2025-12-27T21:30:00",
+      "start_str": "21:30",
+      "title": "Mozart - Genio Immortale"
     },
     "Sky Atlantic.it": {
-      "start": "2025-12-27T18:40:00",
-      "start_str": "18:40",
-      "title": "Chicago P.D."
+      "start": "2025-12-27T22:05:00",
+      "start_str": "22:05",
+      "title": "True Detective"
     },
     "Sky Cinema Action.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Sherlock Holmes"
+      "start": "2025-12-27T22:10:00",
+      "start_str": "22:10",
+      "title": "Sherlock Holmes - Gioco di ombre"
     },
     "Sky Cinema Comedy.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "E noi come st***zi rimanemmo a guardare"
+      "start": "2025-12-27T21:50:00",
+      "start_str": "21:50",
+      "title": "Questione di karma"
     },
     "Sky Cinema Drama.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Vita segreta di Maria Capasso"
+      "start": "2025-12-27T21:40:00",
+      "start_str": "21:40",
+      "title": "Una vita in fuga"
     },
     "Sky Cinema Due.it": {
-      "start": "2025-12-27T20:15:00",
-      "start_str": "20:15",
-      "title": "Le otto montagne"
+      "start": "2025-12-27T22:45:00",
+      "start_str": "22:45",
+      "title": "The Independent: Complotto per la Casa Bianca"
     },
     "Sky Cinema Family.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Harry Potter e i doni della morte: Parte II"
+      "start": "2025-12-27T22:10:00",
+      "start_str": "22:10",
+      "title": "Animali fantastici e dove trovarli"
     },
     "Sky Cinema Romance.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Un giorno come tanti"
+      "start": "2025-12-27T21:55:00",
+      "start_str": "21:55",
+      "title": "Tre amiche"
     },
     "Sky Cinema Suspense.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Mission: Impossible 2"
+      "start": "2025-12-27T22:10:00",
+      "start_str": "22:10",
+      "title": "Mission: Impossible III"
     },
     "Sky Cinema Uno +24.it": {
-      "start": "2025-12-27T18:30:00",
-      "start_str": "18:30",
-      "title": "Il grande giorno"
+      "start": "2025-12-27T23:05:00",
+      "start_str": "23:05",
+      "title": "Assassinio sullOrient Express"
     },
     "Sky Cinema Uno.it": {
-      "start": "2025-12-27T20:15:00",
-      "start_str": "20:15",
-      "title": "The Equalizer - Il vendicatore"
+      "start": "2025-12-27T22:30:00",
+      "start_str": "22:30",
+      "title": "La Trama Fenicia"
     },
     "Sky Classica.it": {
-      "start": "2025-12-27T18:30:00",
-      "start_str": "18:30",
-      "title": "Joyce DiDonato - Eden in Olympia"
+      "start": "2025-12-27T21:30:00",
+      "start_str": "21:30",
+      "title": "Leoncavallo - Pagliacci"
     },
     "Sky Crime.it": {
-      "start": "2025-12-27T20:10:00",
-      "start_str": "20:10",
-      "title": "I macellai di Los Angeles"
+      "start": "2025-12-27T21:55:00",
+      "start_str": "21:55",
+      "title": "Uno stadio da incubo"
     },
     "Sky Documentaries +1.it": {
-      "start": "2025-12-27T20:10:00",
-      "start_str": "20:10",
-      "title": "Animali fantastici - Alle origini del mito"
+      "start": "2025-12-27T22:00:00",
+      "start_str": "22:00",
+      "title": "Icons: Harry Potter 1^TV"
     },
     "Sky Documentaries.it": {
-      "start": "2025-12-27T19:10:00",
-      "start_str": "19:10",
-      "title": "Animali fantastici - Alle origini del mito"
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
+      "title": "Icons: Harry Potter"
     },
     "Sky Investigation.it": {
-      "start": "2025-12-27T18:40:00",
-      "start_str": "18:40",
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
       "title": "Mistletoe Murders: Delitti sotto..."
     },
     "Sky News.it": {
-      "start": "2025-12-27T18:30:00",
-      "start_str": "18:30",
-      "title": "News Hour with Jonathan Samuels"
+      "start": "2025-12-27T21:30:00",
+      "start_str": "21:30",
+      "title": "The World with Yalda Hakim"
     },
     "Sky Serie.it": {
-      "start": "2025-12-27T18:40:00",
-      "start_str": "18:40",
-      "title": "The Rainmaker"
+      "start": "2025-12-27T22:20:00",
+      "start_str": "22:20",
+      "title": "Chicago Med"
     },
     "Sky Sport 4K.it": {
-      "start": "2025-12-27T19:30:00",
-      "start_str": "19:30",
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
       "title": "Sky Saturday Night"
     },
     "Sky Sport Calcio.it": {
-      "start": "2025-12-27T19:30:00",
-      "start_str": "19:30",
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
       "title": "Sky Saturday Night"
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "GP Gran Bretagna: Gara"
+      "start": "2025-12-27T21:55:00",
+      "start_str": "21:55",
+      "title": "Budapest: Sprint Race"
     },
     "Sky Sport Golf.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "3a giornata"
+      "start": "2025-12-27T23:00:00",
+      "start_str": "23:00",
+      "title": "Afrasia Bank Mauritius Open, 4a giornata"
     },
     "Sky Sport Max.it": {
-      "start": "2025-12-27T19:00:00",
-      "start_str": "19:00",
-      "title": "Virtus Bologna - Olympiacos"
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
+      "title": "Gigi Buffon"
     },
     "Sky Sport MotoGP.it": {
-      "start": "2025-12-27T18:30:00",
-      "start_str": "18:30",
-      "title": "Un Anno Di Moto2 2025"
+      "start": "2025-12-27T22:30:00",
+      "start_str": "22:30",
+      "title": "Ep. 8"
     },
     "Sky Sport Tennis.it": {
-      "start": "2025-12-27T20:00:00",
-      "start_str": "20:00",
-      "title": "Jannik, oltre il tennis (un anno dopo)"
+      "start": "2025-12-27T22:00:00",
+      "start_str": "22:00",
+      "title": "Capitolo 4"
     },
     "Sky Sport Uno.it": {
-      "start": "2025-12-27T19:30:00",
-      "start_str": "19:30",
-      "title": "Programmazione non disponibile"
+      "start": "2025-12-27T21:45:00",
+      "start_str": "21:45",
+      "title": "Sofia Goggia"
     },
     "Sky Sport.it": {
-      "start": "2025-12-27T19:00:00",
-      "start_str": "19:00",
-      "title": "Pisa - Juventus"
+      "start": "2025-12-28T16:00:00",
+      "start_str": "16:00",
+      "title": "Bologna - Sassuolo"
     },
     "Sky TG24.it": {
-      "start": "2025-12-27T18:30:00",
-      "start_str": "18:30",
+      "start": "2025-12-27T21:30:00",
+      "start_str": "21:30",
       "title": "TG24 mezzora"
     },
     "Sky Uno.it": {
-      "start": "2025-12-27T18:50:00",
-      "start_str": "18:50",
-      "title": "Alessandro Borghese - 4 Ristoranti"
+      "start": "2025-12-27T21:40:00",
+      "start_str": "21:40",
+      "title": "MasterChef Italia"
     }
   },
-  "updated_at": "2025-12-27T18:26:31.539434"
+  "updated_at": "2025-12-27T21:16:25.916598"
 }
