@@ -356,12 +356,12 @@
       "category": ""
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T15:30:00",
-      "stop": "2025-12-27T15:45:00",
-      "start_str": "15:30",
-      "stop_str": "15:45",
-      "title": "Mi presento: Leonardo Fornaroli",
-      "desc": "Conosciamo meglio il pilota italiano campione F3 e in lotta per il titolo di F2: lobiettivo F1 per Leo ormai e sempre piu vicino.",
+      "start": "2025-12-27T15:45:00",
+      "stop": "2025-12-27T16:00:00",
+      "start_str": "15:45",
+      "stop_str": "16:00",
+      "title": "Il Caso Hamilton",
+      "desc": "Il Caso Hamilton",
       "category": ""
     },
     "Sky Sport Golf.it": {
@@ -549,9 +549,9 @@
       "title": "Ep.14"
     },
     "Sky Sport F1.it": {
-      "start": "2025-12-27T15:45:00",
-      "start_str": "15:45",
-      "title": "Il Caso Hamilton"
+      "start": "2025-12-27T16:00:00",
+      "start_str": "16:00",
+      "title": "GP Austria: Gara"
     },
     "Sky Sport Golf.it": {
       "start": "2025-12-27T15:55:00",
@@ -594,5 +594,5 @@
       "title": "MasterChef Italia"
     }
   },
-  "updated_at": "2025-12-27T15:42:57.707787"
+  "updated_at": "2025-12-27T15:46:36.169563"
 }
