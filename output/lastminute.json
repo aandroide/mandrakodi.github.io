@@ -3,256 +3,183 @@
   "RefreshList": "10800",
   "items": [
     {
-      "title": "=== LAST MINUTE - LIVE + EPG ===",
+      "title": "Last Minute - EPG",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "Aggiornato: 28/12/2025 06:29\\nEPG + Stream automatici"
+      "info": "Aggiornato: 28/12/2025 08:10"
     },
     {
-      "title": "=== SPORT ===",
+      "title": "DAZN 1.it - 07:00 Udinese - Lazio",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "11 canali"
+      "info": "In onda: 07:00 - 08:53\n\nSerie A - 17a g. Ambizione, tattica e personalita: la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.\n\nA seguire (08:53): 11a g.",
+      "thumbnail": "https://images.open-epg.com/19310.png"
     },
     {
-      "title": "DAZN 1.it - [COLOR yellow]05:00[/COLOR] DAZN 1",
+      "title": "DAZN 2.it - 05:00 Nessun evento in onda",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19310.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:00 - 07:00\n\nDAZN 1\n\n[B]A seguire (07:00):[/B] Udinese - Lazio\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\nA seguire (11:00): Nessun evento in onda",
+      "thumbnail": "https://images.open-epg.com/19311.png"
     },
     {
-      "title": "DAZN 2.it - [COLOR yellow]05:00[/COLOR] Nessun evento in onda",
+      "title": "Sky Arte.it - 06:50 The Last Movie Stars",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19311.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:00 - 11:00\n\nDAZN 2 si attivera in occasione di eventi di Serie A Enilive trasmessi in contemporanea.\n\n[B]A seguire (11:00):[/B] Nessun evento in onda\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 06:50 - 08:15\n\nTra volontariato e carriera, lamore di Joanne e Paul rimane leredita piu grande di questa coppia di ultime star del cinema.\n\nA seguire (08:15): Elizabeth Taylor - Lultima diva",
+      "thumbnail": "https://images.open-epg.com/19379.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Sport Calcio.it - [COLOR yellow]05:00[/COLOR] Pisa - Juventus",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19405.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 05:00 - 07:00\n\nPisa - Juventus - Toscani penultimi con una sola vittoria, 8 pari e 7 ko. Juve a -1 dalla Champions dopo 2 vittorie: Bologna e Roma. Un solo ko a Pisa nei 9 precedenti. TC: Compagnoni-Marocchi\n\n[B]A seguire (07:00):[/B] Nottingham Forest - Manchester City"
-    },
-    {
-      "title": "Sky Sport F1.it - [COLOR yellow]06:15[/COLOR] Race 2: GP Singapore",
+      "title": "Sky Atlantic.it - 07:40 IT: Welcome to Derry",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19406.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:15 - 07:15\n\nGP Singapore: Gara 2 - Doriane Pin e Maya Weug, in lizza per il titolo, si sfidano nella gara piu importante del weekend, quella che assegna punteggio pieno. Telecronaca di Andrea Sillitti e Vicky Pir...\n\n[B]A seguire (07:15):[/B] Rivoluzione 2026\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:40 - 08:40\n\nS1 Ep6 Nel Nome Del Padre - Tormentato da visioni oscure, Dick ha una sorpresa al Black Spot. Intanto, i ragazzi affrontano sfide personali.\n\nA seguire (08:40): Black Sails",
+      "thumbnail": "https://images.open-epg.com/19381.png"
     },
     {
-      "title": "Sky Sport Golf.it - [COLOR yellow]05:00[/COLOR] Genesis Scottish Open 4a g.",
+      "title": "Sky Cinema Action.it - 07:10 Sherlock Holmes",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19407.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:00 - 08:05\n\nGenesis Scottish Open 4a g. - Tutti i tornei del tour europeo, il DP World Tour, che assegnano i punti per la Race to Dubai.\n\n[B]A seguire (08:05):[/B] Open de Portugal\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:10 - 09:20\n\nRobert Downey Jr. e Jude Law in una rilettura nel segno del fantastico del celebre detective. Holmes e il fidato Watson devono indagare su una serie di delitti legati alla magia nera (USA/AUS 2009)\n\nA seguire (09:20): Sherlock Holmes - Gioco di ombre",
+      "thumbnail": "https://images.open-epg.com/19383.png"
     },
     {
-      "title": "Sky Sport Max.it - [COLOR yellow]05:00[/COLOR] Tokyo: 2a Giornata",
+      "title": "Sky Cinema Comedy.it - 07:45 Questione di karma",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19408.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:00 - 08:15\n\nTokyo: 2a Giornata - Le azioni dei Grand Slam del Judo.\n\n[B]A seguire (08:15):[/B] Veleziana Sailing Week 2025 16/12/2025\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:45 - 09:20\n\nFabio De Luigi ed Elio Germano animano unironica commedia esoterica. Il facoltoso Giacomo viene convinto da un guru che suo padre si e reincarnato in Mario, un imbroglione pieno di debiti (ITA 2017)\n\nA seguire (09:20): Insospettabili sospetti",
+      "thumbnail": "https://images.open-epg.com/19384.png"
     },
     {
-      "title": "Sky Sport MotoGP.it - [COLOR yellow]06:25[/COLOR] Un Anno Di Moto2 2025",
+      "title": "Sky Cinema Drama.it - 08:00 Una vita in fuga",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19409.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:25 - 07:25\n\nUn Anno Di Moto2 2025 - Dalla partenza in Thailandia al finale sul circuito di Valencia, riviviamo la stagione 2025 della Moto2 in questo speciale\n\n[B]A seguire (07:25):[/B] Paddock Life - Best Of 2025\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:00 - 09:50\n\nSean Penn dirige e interpreta con la figlia Dylan il biopic su John Vogel. La doppia vita del piu famoso e inafferrabile truffatore dAmerica, raccontata dal punto di vista della figlia (USA/CAN 2021)\n\nA seguire (09:50): Anime nere",
+      "thumbnail": "https://images.open-epg.com/19385.png"
     },
     {
-      "title": "Sky Sport Tennis.it - [COLOR yellow]06:00[/COLOR] Finale",
+      "title": "Sky Cinema Due.it - 07:40 Michael Collins",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19404.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:00 - 08:30\n\nSinner - Auger Aliassime - Dalla Paris La Defense Arena di Parigi, Francia.\n\n[B]A seguire (08:30):[/B] Top 50 Colpi 2025\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:40 - 09:55\n\nLeone doro a Venezia 1996 per il regista Neil Jordan e Coppa Volpi a Liam Neeson, leader guerrigliero nellIrlanda del 1916 lacerata e insanguinata dalle lotte del movimento indipendentista (USA/GBR 1996)\n\nA seguire (09:55): The Independent: Complotto per la Casa Bianca",
+      "thumbnail": "https://images.open-epg.com/19387.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Sport Uno.it - [COLOR yellow]05:00[/COLOR] Chelsea - Aston Villa",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19410.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 05:00 - 06:45\n\nPremier League - Dallo Stamford Bridge di Londra, Inghilterra.\n\n[B]A seguire (06:45):[/B] Ep.14"
-    },
-    {
-      "title": "=== CINEMA ===",
+      "title": "Sky Cinema Family.it - 05:35 Harry Potter e il calice di fuoco",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "9 canali"
+      "info": "In onda: 05:35 - 08:15\n\nMike Newell dirige Daniel Radcliffe e Ralph Fiennes nel quarto capitolo della saga. Harry Potter partecipa ad un torneo tra scuole di magia, su cui incombe il reincarnato Voldemort (USA/GBR 2005)\n\nA seguire (08:15): Harry Potter e lOrdine della Fenice",
+      "thumbnail": "https://images.open-epg.com/19388.png"
     },
     {
-      "title": "Sky Cinema Action.it - [COLOR yellow]05:25[/COLOR] Catwoman",
+      "title": "Sky Cinema Romance.it - 06:45 Tre amiche",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19383.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:25 - 07:10\n\nHalle Berry interpreta la sensuale eroina della DC Comics. Una pubblicitaria, uccisa per aver scoperto un cosmetico letale, risorge grazie a un gatto magico e acquisisce superpoteri felini (USA 2004)\n\n[B]A seguire (07:10):[/B] Sherlock Holmes\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 06:45 - 08:50\n\nUn cast al femminile capitanato da Camille Cottin in un film presentato in concorso a Venezia. Le dinamiche sentimentali di 3 quarantenni vengono sconvolte da un evento inaspettato (FRA 2024)\n\nA seguire (08:50): Nove lune e mezza",
+      "thumbnail": "https://images.open-epg.com/19389.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Cinema Comedy.it - [COLOR yellow]06:00[/COLOR] Febbre da cavallo - La mandrakata",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19384.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 06:00 - 07:45\n\nCarlo Vanzina dirige Gigi Proietti ed Enrico Montesano nel sequel del cult degli anni 70. Ancora accanito scommettitore, Mandrake coinvolge un gruppo di buffi complici in una truffa (ITA 2002)\n\n[B]A seguire (07:45):[/B] Questione di karma"
-    },
-    {
-      "title": "Sky Cinema Drama.it - [COLOR yellow]05:50[/COLOR] A Chiara",
+      "title": "Sky Cinema Suspense.it - 07:20 Mission: Impossible - The Final Reckoning",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19385.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:50 - 08:00\n\nRitratto di unadolescente coraggiosa diretto da Jonas Carpignano premiato a Cannes. Quando il padre fugge, Chiara fa i conti con unamara verita. David di Donatello a Swamy Rotolo (ITA 2021)\n\n[B]A seguire (08:00):[/B] Una vita in fuga\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:20 - 10:10\n\n... Reckoning. - Ottavo capitolo delladrenalinica saga con Tom Cruise protagonista. Lagente Hunt e la sua squadra devono recuperare lEntita, unintelligenza artificiale che minaccia lumanita (USA 2025)\n\nA seguire (10:10): Mission: Impossible - Protocollo Fantasma",
+      "thumbnail": "https://images.open-epg.com/19390.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Cinema Due.it - [COLOR yellow]05:55[/COLOR] Into the Storm - La guerra di Churchill",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19387.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 05:55 - 07:40\n\nBrendan Gleeson, premiato con lEmmy Award, interpreta Winston Churchill nel biopic sul grande statista inglese, la cui vita privata fu scandita da tormenti e debolezze (USA/GBR 2009)\n\n[B]A seguire (07:40):[/B] Michael Collins"
-    },
-    {
-      "title": "Sky Cinema Family.it - [COLOR yellow]05:35[/COLOR] Harry Potter e il calice di fuoco",
+      "title": "Sky Cinema Uno +24.it - 06:35 Il grande giorno",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19388.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:35 - 08:15\n\nMike Newell dirige Daniel Radcliffe e Ralph Fiennes nel quarto capitolo della saga. Harry Potter partecipa ad un torneo tra scuole di magia, su cui incombe il reincarnato Voldemort (USA/GBR 2005)\n\n[B]A seguire (08:15):[/B] Harry Potter e lOrdine della Fenice\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 06:35 - 08:20\n\nIl trio comico piu amato dItalia in una commedia sul matrimonio e lamicizia. Giovanni e Giacomo organizzano le nozze dei rispettivi figli, ma non hanno previsto larrivo di Aldo (ITA 2022).\n\nA seguire (08:20): Lamico fedele",
+      "thumbnail": "https://images.open-epg.com/19391.png"
     },
     {
-      "title": "Sky Cinema Romance.it - [COLOR yellow]04:35[/COLOR] Promises",
+      "title": "Sky Cinema Uno.it - 07:15 Figli",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19389.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 04:35 - 06:30\n\nPierfrancesco Favino e Kelly Reilly nella love story di Amanda Sthers, tratta dal suo libro. Un padre di famiglia incontra una donna in procinto di sposarsi, ed e colpo di fulmine (ITA/FRA 2021)\n\n[B]A seguire (06:30):[/B] Questo o quello - Speciale\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:15 - 09:00\n\nGrande successo Vision Distribution con Paola Cortellesi e Valerio Mastandrea, tratto dal monologo di Mattia Torre sulla quotidiana lotta delle coppie che crescono piu di un figlio (ITA 2020)\n\nA seguire (09:00): Colpi damore",
+      "thumbnail": "https://images.open-epg.com/19392.png"
     },
     {
-      "title": "Sky Cinema Suspense.it - [COLOR yellow]05:10[/COLOR] Mission: Impossible 2",
+      "title": "Sky Classica.it - 08:05 Pianisti - LAccademia di Imola, ep.4",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19390.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:10 - 07:20\n\nJohn Woo dirige Tom Cruise nel secondo capitolo della saga. Con laiuto di unaffascinante ladra, lagente Hunt deve sventare il piano di un ex collega in possesso di un virus mortale (USA 2000)\n\n[B]A seguire (07:20):[/B] Mission: Impossible - The Final Reckoning\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:05 - 08:35\n\nChi va, chi viene - quarta puntata della serie Pianisti che svela i dietro le quinte dellAccademia di Imola: attivita, grandi concerti, sfide, tensione e dedizione di allievi e docenti - G.De Stefano, reg.(2015)\n\nA seguire (08:35): La classica domanda: Stefano Boeri",
+      "thumbnail": "https://images.open-epg.com/4100139.png"
     },
     {
-      "title": "Sky Cinema Uno +24.it - [COLOR yellow]04:55[/COLOR] Io sono leggenda",
+      "title": "Sky Documentaries +1.it - 08:05 One Strange Rock: Pianeta Terra",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19391.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 04:55 - 06:35\n\nCult di fantascienza con Will Smith. Un virus ha decimato lumanita trasformando i superstiti in mostri. Uno scienziato immune al morbo studia una cura nel suo laboratorio (USA 2007)\n\n[B]A seguire (06:35):[/B] Il grande giorno\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:05 - 08:55\n\nOne Strange Rock: Pianeta Terra\n\nA seguire (08:55): Animali fantastici - Alle origini del mito",
+      "thumbnail": "https://images.open-epg.com/nologo.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Cinema Uno.it - [COLOR yellow]05:00[/COLOR] It Ends with Us - Siamo noi a dire basta",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19392.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 05:00 - 07:15\n\nDramma sentimentale con Blake Lively dal bestseller di Colleen Hoover. Dopo il funerale del padre, Lily torna a Boston e si innamora di Ryle, ma luomo ha un lato oscuro e violento (USA 2024)\n\n[B]A seguire (07:15):[/B] Figli"
-    },
-    {
-      "title": "=== SERIE TV ===",
+      "title": "Sky Documentaries.it - 07:55 Animali fantastici - Alle origini del mito",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "3 canali"
+      "info": "In onda: 07:55 - 09:00\n\n... mito. - Tra realta e fantasia, Stephen Fry ci accompagna in un viaggio alla scoperta degli animali che hanno ispirato le magiche creature di Harry Potter.\n\nA seguire (09:00): Icons: Harry Potter",
+      "thumbnail": "https://images.open-epg.com/19396.png"
     },
     {
-      "title": "Sky Atlantic.it - [COLOR yellow]05:30[/COLOR] True Detective",
+      "title": "Sky Investigation.it - 07:35 Law and Order - I due volti della...",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19381.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 05:30 - 06:30\n\nQuando otto ricercatori scompaiono nel nulla, Danvers ordina una ricerca. Navarro cerca di convincerla che la scomparsa degli uomini sia collegata ad un caso rimasto a lungo irrisolto.\n\n[B]A seguire (06:30):[/B] True Detective\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:35 - 08:25\n\n... giustizia. S24 Ep6 Lo dira il tempo - Il preside di una prestigiosa scuola privata viene assassinato. Shaw e Riley devono indagare sul sistema tossico che esercita pressioni sugli studenti.\n\nA seguire (08:25): FBI: International",
+      "thumbnail": "https://images.open-epg.com/19398.png"
     },
     {
-      "title": "Sky Serie.it - [COLOR yellow]06:15[/COLOR] Friends",
+      "title": "Sky News.it - 08:00 Mornings with Jones and Melbourne",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19402.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:15 - 06:40\n\nS5 Ep17 Un bacio fuori luogo - Rachel ottiene un colloquio di lavoro con unimportante ditta di moda, ma a causa di un errore bacia il suo interlocutore. Joey si invaghisce di una ragazza che abita nel...\n\n[B]A seguire (06:40):[/B] Friends\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:00 - 08:30\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\nA seguire (08:30): Sunday Morning w/ Trevor Phillips",
+      "thumbnail": "https://images.open-epg.com/19400.png"
     },
     {
-      "title": "=== NEWS ===",
+      "title": "Sky Serie.it - 07:55 Friends",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "2 canali"
+      "info": "In onda: 07:55 - 08:20\n\nS5 Ep21 Difficili convivenze - Gary chiede a Phoebe di andare a convivere e lei accetta per gentilezza, senza essere troppo convinta. Monica cerca di far capire a Gary, tramite Chandler, che forse e troppo presto.\n\nA seguire (08:20): Friends",
+      "thumbnail": "https://images.open-epg.com/19402.png"
     },
     {
-      "title": "Sky News.it - [COLOR yellow]06:00[/COLOR] Mornings with Jones and Melbourne",
+      "title": "Sky Sport 4K.it - 06:30 Inter - Liverpool",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19400.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:00 - 06:30\n\nAll the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.\n\n[B]A seguire (06:30):[/B] Mornings with Jones and Melbourne\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 06:30 - 08:30\n\nUEFA Champions League - Entrambe reduci da un ko rispettivamente contro Atletico Madrid (2-1) e PSV (1-4). Inter con 12 punti, Liverpool 9. Reds in vantaggio 4 a 2 nei 6 precedenti. TC: Zancan-Marchegiani\n\nA seguire (08:30): Juventus - Pafos",
+      "thumbnail": "https://images.open-epg.com/19403.png"
     },
     {
-      "title": "Sky TG24.it - [COLOR yellow]06:20[/COLOR] Sky Meteo24",
+      "title": "Sky Sport Calcio.it - 07:00 Nottingham Forest - Manchester City",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19411.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:20 - 06:30\n\nPrevisioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali.\n\n[B]A seguire (06:30):[/B] Pagine\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 07:00 - 08:45\n\nNottingham Forest - Manchester City - Dal City Ground di Nottingham, Nottinghamshire, Inghilterra.\n\nA seguire (08:45): Ep.22",
+      "thumbnail": "https://images.open-epg.com/19405.png"
     },
     {
-      "title": "=== DOCUMENTARI ===",
+      "title": "Sky Sport F1.it - 08:00 GP Gran Bretagna: Gara",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "4 canali"
+      "info": "In onda: 08:00 - 09:00\n\nGP Gran Bretagna: Gara - Giro di boa del mondiale 2025, con la dodicesima gara della stagione sulla pista di Silverstone. Telecronaca di Carlo Vanzini, Marc Gene e Roberto Chinchero.\n\nA seguire (09:00): Motori F1 Race Anatomy - Stag. Motori Race Anatomy F1 2025 - Motori Race Anatomy F1 2025 Ep.25 Speciale Natale 2025 22/12/2025",
+      "thumbnail": "https://images.open-epg.com/19406.png"
     },
     {
-      "title": "Sky Arte.it - [COLOR yellow]06:00[/COLOR] The Last Movie Stars",
+      "title": "Sky Sport Golf.it - 08:05 Open de Portugal",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19379.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:00 - 06:50\n\nDi fronte allultimatum di Joanne, Paul si impegna a risolvere i suoi problemi con lalcool. Ma una tragedia familiare e il suo nuovo pericoloso hobby romperanno la pace.\n\n[B]A seguire (06:50):[/B] The Last Movie Stars\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:05 - 08:35\n\nOpen de Portugal - Challenge Series\n\nA seguire (08:35): Indoor Golf Group Challenge",
+      "thumbnail": "https://images.open-epg.com/19407.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Classica.it - [COLOR yellow]04:30[/COLOR] Haendel - Messia",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/4100139.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 04:30 - 06:30\n\nOratorio (1741) in tre parti per soli, coro e orchestra - con M.Klaudova, M.Cukrova, M.Zihla, R.Hoza - Orchestra e coro del Teatro della Boemia Meridionale - D.Svec, dir. - T.O.Pilar, reg. (giardini C...\n\n[B]A seguire (06:30):[/B] Joyce DiDonato - Eden in Olympia"
-    },
-    {
-      "title": "Sky Documentaries +1.it - [COLOR yellow]06:20[/COLOR] One Strange Rock: Pianeta Terra",
+      "title": "Sky Sport Max.it - 05:00 Tokyo: 2a Giornata",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/nologo.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:20 - 07:10\n\nOne Strange Rock: Pianeta Terra\n\n[B]A seguire (07:10):[/B] One Strange Rock: Pianeta Terra\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 05:00 - 08:15\n\nTokyo: 2a Giornata - Le azioni dei Grand Slam del Judo.\n\nA seguire (08:15): Veleziana Sailing Week 2025 16/12/2025",
+      "thumbnail": "https://images.open-epg.com/19408.png"
     },
     {
-      "title": "Sky Documentaries.it - [COLOR yellow]06:10[/COLOR] One Strange Rock: Pianeta Terra",
+      "title": "Sky Sport MotoGP.it - 08:00 Fim Awards 2025 15/12/2025 - Ep. 9 - Fim Awards 2025 15/12/2025",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19396.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:10 - 07:05\n\nOne Strange Rock: Pianeta Terra\n\n[B]A seguire (07:05):[/B] One Strange Rock: Pianeta Terra\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:00 - 08:55\n\nFim Awards 2025 - Da Losanna, Svizzera.\n\nA seguire (08:55): 3a giornata",
+      "thumbnail": "https://images.open-epg.com/19409.png"
     },
     {
-      "title": "=== INTRATTENIMENTO ===",
+      "title": "Sky Sport Tennis.it - 06:00 Finale",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "2 canali"
+      "info": "In onda: 06:00 - 08:30\n\nSinner - Auger Aliassime - Dalla Paris La Defense Arena di Parigi, Francia.\n\nA seguire (08:30): Top 50 Colpi 2025",
+      "thumbnail": "https://images.open-epg.com/19404.png"
     },
     {
-      "title": "[COLOR lime]▶[/COLOR] Sky Investigation.it - [COLOR yellow]05:55[/COLOR] Accused - Sotto processo",
-      "myresolve": "platin@@https://www.platinsport.com/",
-      "thumbnail": "https://images.open-epg.com/19398.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B][COLOR lime]🔴 LIVE - RIPRODUCIBILE[/COLOR][/B]\n[B]In onda ORA:[/B] 05:55 - 06:45\n\nS1 Ep14 La storia di Jessie - Quando tutti i suoi tentativi di scoprire lidentita del padre biologico si arenano, unadolescente adotta misure estreme per scoprire la verita. Kara rivela a Dominic che ...\n\n[B]A seguire (06:45):[/B] Law and Order - I due volti della..."
-    },
-    {
-      "title": "Sky Uno.it - [COLOR yellow]06:15[/COLOR] Artisti del panettone",
+      "title": "Sky Sport Uno.it - 08:05 Sofia Goggia",
       "link": "ignoreme",
-      "thumbnail": "https://images.open-epg.com/19413.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "[B]In onda ORA:[/B] 06:15 - 06:45\n\nChiara Maci ospitera lo stilista dei dolci Roberto Rinaldini, lartigiano della tradizione Paolo Sacchetti e il figlio di una dinastia di gelatieri Lucca Cantarin.\n\n[B]A seguire (06:45):[/B] MasterChef Italia\n\n[COLOR gray]Stream non disponibile[/COLOR]"
+      "info": "In onda: 08:05 - 09:00\n\nSofia Goggia - Discese al limite, ritorni semi-impossibili, vittorie indimenticabili. Sofia Goggia si racconta con ironia, nel Talk di Sky Sport, dagli inizi sino alle sfide ancora aperte, verso Milano-Cortina 2026.\n\nA seguire (09:00): Chelsea vs Arsenal - Inside a London derby",
+      "thumbnail": "https://images.open-epg.com/19410.png"
     },
     {
-      "title": "[COLOR yellow]Statistiche[/COLOR]",
+      "title": "Sky TG24.it - 08:00 TG24 mezzora",
       "link": "ignoreme",
-      "thumbnail": "https://i.imgur.com/7wR0JXI.png",
-      "fanart": "https://i.imgur.com/7wR0JXI.png",
-      "info": "Totale: 28\\n[COLOR lime]▶ Stream:[/COLOR] 7\\nSolo EPG: 21\\n\\nAggiornato: 06:29"
+      "info": "In onda: 08:00 - 08:30\n\nTelegiornale in diretta. I giornali di oggi, lo Sport, il Meteo.\n\nA seguire (08:30): Health",
+      "thumbnail": "https://images.open-epg.com/19411.png"
+    },
+    {
+      "title": "Sky Uno.it - 08:10 MasterChef Italia",
+      "link": "ignoreme",
+      "info": "In onda: 08:10 - 09:40\n\nLa masterclass affronta il primo Skill Test, in cui gli aspiranti chef hanno il compito di replicare piatti iconici delle grandi famiglie italiane della ristorazione.\n\nA seguire (09:40): Love Bugs",
+      "thumbnail": "https://images.open-epg.com/19413.png"
     }
   ]
 }
