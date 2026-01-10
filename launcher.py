@@ -1,8 +1,8 @@
-versione='1.2.74'
+versione='1.2.77'
 # Module: launcher
 # Author: ElSupremo
 # Created on: 22.02.2021
-# Last update: 19.10.2025
+# Last update: 05.01.2026
 # License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
 
 import sys
@@ -16,6 +16,7 @@ import json
 import string
 import random
 import re
+import time
 import xbmcvfs
 
 # Get the plugin url in plugin:// notation. 
@@ -230,7 +231,7 @@ def jsonToItems(strJson):
             strLog=json.dumps(item)
             titolo = "NO TIT"
             thumb = "https://www.andreisfina.it/wp-content/uploads/2018/12/no_image.jpg"
-            fanart = "https://www.andreisfina.it/wp-content/uploads/2018/12/no_image.jpg"
+            fanart = "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg"
             genre = "generic"
             info = ""
             regExp = ""
@@ -412,6 +413,7 @@ def jsonToItems(strJson):
                     else:
                         url = get_url(action='plugin', url=link)
             xbmcplugin.addDirectoryItem(_handle, url, list_item, is_folder)
+        logga("CALL LAUNCHER endOfDirectory 1")
         xbmcplugin.endOfDirectory(_handle)
     except:
         import traceback
@@ -489,6 +491,7 @@ def jsonToChannels(strJson):
             jobCh += 1
             xbmcplugin.addDirectoryItem(_handle, url, list_item, True)
             jobCh += 1
+        logga("CALL LAUNCHER endOfDirectory 2")
         xbmcplugin.endOfDirectory(_handle)
     except Exception as err:
         import traceback
@@ -805,7 +808,8 @@ def callReolver(metodo, parametro):
             newUrl2 += "?extPL=wise"
         url = get_url(action='play', url=newUrl2)
         xbmcplugin.addDirectoryItem(_handle, url, list_item, False)
-
+    
+    logga("CALL LAUNCHER endOfDirectory 3")
     xbmcplugin.endOfDirectory(_handle)
 
 def runApk(apkName, apkPar):
@@ -987,8 +991,8 @@ def checkDns():
     responseCode=404
     try:
         currSess = requests.Session()
-        head={'user-agent':'iPad','Content-Type':'application/x-www-form-urlencoded','Referer':'http://daddylive.mp/'}
-        page_data1 = currSess.get("https://daddylive.mp/embed/stream-860.php",headers=head)
+        head={'user-agent':'iPad','Content-Type':'application/x-www-form-urlencoded','Referer':'https://daddyhd.com/'}
+        page_data1 = currSess.get("https://daddyhd.com/embed/stream-860.php",headers=head)
         responseCode=page_data1.status_code
         dns1 = xbmc.getInfoLabel('Network.DNS1Address')
         dns2 = xbmc.getInfoLabel('Network.DNS2Address')
@@ -996,35 +1000,19 @@ def checkDns():
     except:
         pass
 
-
-    logging.warning("MANDRA_DNS: "+str(responseCode))
-    logga("############ START NETWORK INFO ############")
-    logga("## IP: %s" %  (ip))
-    logga("## GATE: %s" %  (gate))
-    logga("## DNS1: %s" %  (dns1))
-    logga("## DNS2: %s" %  (dns2))
-    logga("############# END NETWORK INFO #############")
-    okDns=False
-    router=0
-    if dns1 == gate or dns2 == gate:
-        router=1
-    elif dns1 == "1.1.1.1" or dns1 == "1.0.0.1" or dns1 == "208.67.222.222" or dns1 == "208.67.220.220":
-        okDns=True
-    elif dns2 == "1.1.1.1" or dns2 == "1.0.0.1" or dns2 == "208.67.222.222" or dns2 == "208.67.220.220":
-        okDns=True
+    infoDns = "##MANDRA_DNS: "+str(responseCode)
+    infoDns += "\n## IP: %s" %  (ip)
+    infoDns += "\n## GATE: %s" %  (gate)
+    infoDns += "\n## DNS1: %s" %  (dns1)
+    infoDns += "\n## DNS2: %s" %  (dns2)
     
-    if okDns == False:
-        dialog = xbmcgui.Dialog()
-        mess = "Con i DNS attualmente impostati, "+dns1+" - "+dns2+",\npotresti avere problemi a recuperare i link da alcuni siti.\nSe puoi, utilizza quelli di CloudFlare [1.1.1.1 - 1.0.0.1] o OpenDNS [208.67.222.222 - 208.67.220.220]"
-        if router == 1:
-            mess = "Stai utilizzando i DNS impostati sul router ["+gate+"].\nSe hai problemi di visione controlla che siano quelli di CloudFlare [1.1.1.1 - 1.0.0.1] o OpenDNS [208.67.222.222 - 208.67.220.220]"
-        try:
-            pwd = xbmcaddon.Addon(id=addon_id).getSetting("password")
-            urlSup="https://test34344.herokuapp.com/testAnonym.php?token="+pwd+"&dns1="+dns1+"&dns2="+dns2
-            makeRequestNoUa(urlSup)
-        except:
-            pass
-        return dialog.ok("Mandrakodi", mess)
+    logga("############ START NETWORK INFO ############")
+    logga(infoDns)
+    logga("############# END NETWORK INFO #############")
+    
+    if responseCode != 200:
+        mess = "Con le attuali impostazioni di rete,\npotresti avere problemi a recuperare i link da alcuni siti \n(es. https://daddyhd.com/)."
+        msgBox(mess)
 
 def checkMandraScript():
     have_mandra_plugin = '"enabled":true' in xbmc.executeJSONRPC('{"jsonrpc":"2.0","method":"Addons.GetAddonDetails","id":1,"params":{"addonid":"script.mandra.kodi", "properties": ["enabled"]}}')
@@ -1494,7 +1482,7 @@ def run():
                 checkResolver()
                 checkJsunpack()
                 checkPortalPy()
-                #checkDns()
+                checkDns()
                 #checkMandraScript()
             checkSkin()
             getSource()
@@ -1632,10 +1620,12 @@ def run():
         raise err
 
     if not viewmode==None and autoView=="1":
+        time.sleep(0.5)
         logga("setting viewmode")
         kodiSkin=xbmc.getSkinDir()
         kodiView=decodeSkinViewMode(kodiSkin, viewmode)
         xbmc.executebuiltin("Container.SetViewMode("+kodiView+")")
+        time.sleep(0.5)
         logga("setting view mode again to "+kodiView)
         xbmc.executebuiltin("Container.SetViewMode("+kodiView+")")
         xbmcaddon.Addon(id=addon_id).setSetting("urlAppo1", kodiView)
